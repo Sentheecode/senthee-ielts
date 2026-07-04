@@ -2,7 +2,7 @@ import { expect, test } from "@playwright/test";
 
 test("complete a task and see the learning diff", async ({ page }) => {
   await page.goto("/");
-  await expect(page.getByRole("heading", { name: "今天，继续靠近 7 分" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Senthee，今天继续靠近 7 分" })).toBeVisible();
   await page.getByRole("button", { name: "10 分钟" }).click();
   await expect(page.getByText("Section 1 表格填空")).toBeVisible();
   await page.getByRole("button", { name: "完成并记录" }).click();

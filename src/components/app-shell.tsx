@@ -26,7 +26,7 @@ export function AppShell({ children }: { children: ReactNode }) {
   return (
     <div className="app-shell">
       <aside className="sidebar" aria-label="主导航">
-        <Link href="/" className="brand" aria-label="IELTS 7 首页">
+        <Link href="/" className="brand" aria-label="Senthee IELTS 首页">
           7
         </Link>
         <nav className="sidebar-nav">
@@ -50,9 +50,9 @@ export function AppShell({ children }: { children: ReactNode }) {
           </span>
         </nav>
         <div className="profile-mini">
-          <span>学</span>
+          <span>S</span>
           <div>
-            <strong>学习者</strong>
+            <strong>Senthee</strong>
             <small>目标 7 分</small>
           </div>
         </div>

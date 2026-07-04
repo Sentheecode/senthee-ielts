@@ -3,12 +3,16 @@
 import { useState } from "react";
 import { CheckCircle2, ExternalLink, Headphones, Mic, PenLine } from "lucide-react";
 import { AudioRecorder } from "./audio-recorder";
+import { createBrowserLearnerRepository } from "@/lib/storage/browser-repository";
+import type { LearnerRepository } from "@/lib/storage/repository";
 
 type Tab = "reading" | "writing" | "speaking";
 
 const fallbackFeedback = "反馈已保存：表达目的清楚。下一步请补充具体影响，并检查冠词与句子衔接。";
+const todayISO = () => new Date().toLocaleDateString("en-CA");
 
-export function PracticeHub() {
+export function PracticeHub({ repository }: { repository?: LearnerRepository }) {
+  const [repo] = useState(() => repository ?? createBrowserLearnerRepository());
   const [tab, setTab] = useState<Tab>("reading");
   const [answer, setAnswer] = useState("");
   const [checked, setChecked] = useState(false);
@@ -19,6 +23,14 @@ export function PracticeHub() {
   async function submitWriting() {
     if (!writing.trim()) return;
     setLoading(true);
+    repo.recordAttempt({
+      id: `writing-paragraph-${Date.now()}`,
+      taskId: "writing-paragraph",
+      date: todayISO(),
+      kind: "output",
+      minutes: 15,
+      detail: "提交写作段落给 Agent",
+    });
     try {
       const response = await fetch("/api/coach", {
         method: "POST",
@@ -32,6 +44,18 @@ export function PracticeHub() {
     } finally {
       setLoading(false);
     }
+  }
+
+  function checkReadingAnswer() {
+    setChecked(true);
+    repo.recordAttempt({
+      id: `reading-drill-${Date.now()}`,
+      taskId: "reading-drill",
+      date: todayISO(),
+      kind: answer === "flexible working hours" ? "completion" : "correction",
+      minutes: 5,
+      detail: answer === "flexible working hours" ? "阅读定位题：识别同义替换" : "阅读定位题：订正同义替换",
+    });
   }
 
   return (
@@ -53,7 +77,7 @@ export function PracticeHub() {
               <label key={option}><input type="radio" name="reading-answer" value={option} checked={answer === option} onChange={(event) => setAnswer(event.target.value)} />{option}</label>
             ))}
           </fieldset>
-          <button className="primary-button" onClick={() => setChecked(true)}>检查答案</button>
+          <button className="primary-button" onClick={checkReadingAnswer}>检查答案</button>
           {checked && <div className={answer === "flexible working hours" ? "answer-feedback correct" : "answer-feedback incorrect"}><CheckCircle2 aria-hidden="true" />{answer === "flexible working hours" ? "回答正确：你识别出了同义替换。" : "还不对。adjust their start and finish times 对应 flexible working hours。请订正后再读一遍原句。"}</div>}
           <a className="official-link" href="https://www.ielts.org/take-a-test/preparation-resources/sample-test-questions/general-training-test" target="_blank" rel="noreferrer">打开 IELTS 官方免费样题 <ExternalLink aria-hidden="true" /></a>
         </section>

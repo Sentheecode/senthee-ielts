@@ -1,7 +1,7 @@
 import type { LearnerState } from "./repository";
 
 export const seedLearnerState: LearnerState = {
-  profile: { name: "学习者", target: 7, examType: "General Training" },
+  profile: { name: "Senthee", target: 7, examType: "General Training" },
   tasks: [
     {
       id: "vocab-3",

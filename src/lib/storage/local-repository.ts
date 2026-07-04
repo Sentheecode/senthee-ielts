@@ -7,7 +7,7 @@ export interface StorageLike {
   setItem(key: string, value: string): void;
 }
 
-const STORAGE_KEY = "ielts-seven:v1";
+const STORAGE_KEY = "ielts-seven:v2:senthee";
 
 const cloneSeed = () => structuredClone(seedLearnerState);
 

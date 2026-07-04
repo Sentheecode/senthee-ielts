@@ -22,6 +22,15 @@ describe("LocalLearnerRepository", () => {
     expect(first.tasks).toHaveLength(seedLearnerState.tasks.length);
   });
 
+  it("starts Senthee with an empty real learning log", () => {
+    const repository = new LocalLearnerRepository(new MemoryStorage());
+    const state = repository.load();
+
+    expect(state.profile.name).toBe("Senthee");
+    expect(state.attempts).toEqual([]);
+    expect(state.tasks.every((task) => !task.completed)).toBe(true);
+  });
+
   it("records the same attempt idempotently", () => {
     const repository = new LocalLearnerRepository(new MemoryStorage());
     const attempt = {

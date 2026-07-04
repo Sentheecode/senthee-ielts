@@ -1,6 +1,14 @@
 # IELTS 7 · 个人学习 Agent
 
-面向中国在职学习者的 IELTS General Training PWA。当前版本包含学习贡献图、按可用时长选任务、每日学习 diff、阅读/写作/口语练习、个人词块、DeepSeek 教练接口和本地数据导出。
+面向中国在职学习者的 IELTS General Training PWA。当前版本是 Senthee 的个人学习日志：学习贡献图、连续天数、每日 diff 都只来自真实学习动作，不包含演示进度。
+
+## 当前部署与数据口径
+
+- 线上地址：`https://ielts-green.vercel.app`
+- 后端：部署在 Vercel 的 Next.js API Route，当前用于 `/api/coach` 调 DeepSeek。
+- 数据：学习记录保存在当前设备浏览器的 `localStorage`，首页可导出 JSON。
+- Supabase：今晚不需要登录。后续要做 iPhone / 安卓 / 电脑多端同步时，再把本地仓储替换成 Supabase。
+- App 化：iPhone 用 Safari 打开线上地址，点“分享 → 添加到主屏幕”，之后从桌面图标 `Senthee IELTS` 打开，不需要从浏览器标签页进入。
 
 ## 本地运行
 
@@ -28,8 +36,8 @@ npm run e2e
 
 ## Vercel 部署
 
-1. 将仓库导入 Vercel。
-2. 在项目 Environment Variables 中添加新的 `DEEPSEEK_API_KEY`。
+1. 将仓库导入 Vercel，或用 `npx vercel deploy --prod` 直接部署。
+2. 在项目 Environment Variables 中添加轮换后的 `DEEPSEEK_API_KEY`。
 3. 可选添加 `DEEPSEEK_MODEL=deepseek-v4-flash`。
 4. 部署后在 iPhone Safari 打开 HTTPS 地址并添加到主屏幕。
 
@@ -50,6 +58,7 @@ docker compose up -d --build
 ## 数据与材料
 
 - 学习记录当前保存在浏览器 `localStorage`，可从首页“今日学习 diff”区域导出 JSON。
+- 已接入真实记录的动作：首页任务完成、阅读检查、写作提交、词库复习。
 - 清理浏览器数据会删除本机记录，请定期导出。
 - 官方样题通过外链访问；内置示例均标记为 AI 原创，不冒充真题。
 - 下一阶段可把本地仓储接口替换为 Supabase，实现多设备同步而不改动主要页面流程。

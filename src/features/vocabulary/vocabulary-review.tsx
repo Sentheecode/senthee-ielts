@@ -3,8 +3,13 @@
 import { useState } from "react";
 import { Volume2 } from "lucide-react";
 import { seedLearnerState } from "@/lib/storage/seed";
+import { createBrowserLearnerRepository } from "@/lib/storage/browser-repository";
+import type { LearnerRepository } from "@/lib/storage/repository";
 
-export function VocabularyReview() {
+const todayISO = () => new Date().toLocaleDateString("en-CA");
+
+export function VocabularyReview({ repository }: { repository?: LearnerRepository }) {
+  const [repo] = useState(() => repository ?? createBrowserLearnerRepository());
   const [index, setIndex] = useState(0);
   const [revealed, setRevealed] = useState(false);
   const [reviewed, setReviewed] = useState(0);
@@ -17,6 +22,14 @@ export function VocabularyReview() {
   }
 
   function next() {
+    repo.recordAttempt({
+      id: `vocab-${item.id}-${Date.now()}`,
+      taskId: "vocab-3",
+      date: todayISO(),
+      kind: "completion",
+      minutes: 3,
+      detail: `复习词块：${item.phrase}`,
+    });
     setReviewed((value) => value + 1);
     setIndex((value) => value + 1);
     setRevealed(false);
