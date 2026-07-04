@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import {
   BarChart3,
   BookOpen,
@@ -19,6 +22,7 @@ const nav = [
 ];
 
 export function AppShell({ children }: { children: ReactNode }) {
+  const pathname = usePathname();
   return (
     <div className="app-shell">
       <aside className="sidebar" aria-label="主导航">
@@ -26,16 +30,16 @@ export function AppShell({ children }: { children: ReactNode }) {
           7
         </Link>
         <nav className="sidebar-nav">
-          <Link href="/" className="nav-link active">
+          <Link href="/" className={`nav-link ${pathname === "/" ? "active" : ""}`}>
             <Home aria-hidden="true" /> 首页
           </Link>
-          <Link href="/practice" className="nav-link">
+          <Link href="/practice" className={`nav-link ${pathname === "/practice" ? "active" : ""}`}>
             <Headphones aria-hidden="true" /> 练习
           </Link>
-          <Link href="/vocabulary" className="nav-link">
+          <Link href="/vocabulary" className={`nav-link ${pathname === "/vocabulary" ? "active" : ""}`}>
             <BookOpen aria-hidden="true" /> 词库
           </Link>
-          <Link href="/coach" className="nav-link">
+          <Link href="/coach" className={`nav-link ${pathname === "/coach" ? "active" : ""}`}>
             <Bot aria-hidden="true" /> Agent
           </Link>
           <span className="nav-link muted-link">
@@ -55,8 +59,8 @@ export function AppShell({ children }: { children: ReactNode }) {
       </aside>
       <div className="page-frame">{children}</div>
       <nav className="bottom-nav" aria-label="移动端主导航">
-        {nav.map(({ href, label, icon: Icon }, index) => (
-          <Link key={href} href={href} className={index === 0 ? "active" : ""}>
+        {nav.map(({ href, label, icon: Icon }) => (
+          <Link key={href} href={href} className={pathname === href ? "active" : ""}>
             <Icon aria-hidden="true" />
             <span>{label}</span>
           </Link>
