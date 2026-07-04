@@ -1,0 +1,72 @@
+import type { LearnerState } from "./repository";
+
+export const seedLearnerState: LearnerState = {
+  profile: { name: "学习者", target: 7, examType: "General Training" },
+  tasks: [
+    {
+      id: "vocab-3",
+      title: "复习 5 个工作场景词块",
+      description: "先听辨，再拼写，最后用一个完整句子表达。",
+      skill: "vocabulary",
+      duration: 3,
+      priority: 4,
+      completed: false,
+      source: "个人词库",
+    },
+    {
+      id: "listen-10",
+      title: "Section 1 表格填空",
+      description: "抓取姓名、日期和数字，训练拼写准确度。",
+      skill: "listening",
+      duration: 10,
+      priority: 9,
+      completed: false,
+      source: "AI 原创 · 中国学习者专项",
+    },
+    {
+      id: "read-25",
+      title: "工作通知定位阅读",
+      description: "用同义替换定位关键信息，并完成订正。",
+      skill: "reading",
+      duration: 25,
+      priority: 8,
+      completed: false,
+      source: "IELTS 官方题型 · AI 原创内容",
+    },
+    {
+      id: "write-60",
+      title: "General Training Task 1 信件",
+      description: "完成 150 词正式信件，并根据反馈二次修改。",
+      skill: "writing",
+      duration: 60,
+      priority: 10,
+      completed: false,
+      source: "AI 原创",
+    },
+  ],
+  attempts: [],
+  estimates: [
+    { skill: "listening", current: null, target: 7, confidence: "unmeasured" },
+    { skill: "reading", current: null, target: 7, confidence: "unmeasured" },
+    { skill: "writing", current: null, target: 7, confidence: "unmeasured" },
+    { skill: "speaking", current: null, target: 7, confidence: "unmeasured" },
+  ],
+  vocabulary: [
+    {
+      id: "v-1",
+      phrase: "meet a deadline",
+      meaning: "按时完成；赶上截止时间",
+      example: "I reorganised my schedule to meet the deadline.",
+      due: "2026-07-04",
+      mastery: 1,
+    },
+    {
+      id: "v-2",
+      phrase: "raise a concern",
+      meaning: "提出担忧或问题",
+      example: "I am writing to raise a concern about the new timetable.",
+      due: "2026-07-04",
+      mastery: 0,
+    },
+  ],
+};
