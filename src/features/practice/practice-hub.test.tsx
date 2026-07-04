@@ -18,6 +18,7 @@ describe("PracticeHub", () => {
     const user = userEvent.setup();
     const repository = new LocalLearnerRepository(new MemoryStorage());
     render(<PracticeHub repository={repository} />);
+    expect(screen.queryByText(/工作场景/)).not.toBeInTheDocument();
     await user.click(screen.getByLabelText("flexible working hours"));
     await user.click(screen.getByRole("button", { name: "检查答案" }));
     expect(screen.getByText("回答正确：你识别出了同义替换。")) .toBeInTheDocument();

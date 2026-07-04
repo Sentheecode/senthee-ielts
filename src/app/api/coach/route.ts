@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const SYSTEM_PROMPT = `你是一名严谨、鼓励但不空泛的 IELTS General Training 中文教练。学习者当前约大学英语四级，目标六个月后总分与单项达到 7。优先指出 1-3 个最值得改的问题，解释中国学习者常见的中式直译、冠词、时态、单复数、搭配和连贯问题。不要伪造官方分数；没有完整样本时只给训练反馈。回答简洁、可执行。`;
+const SYSTEM_PROMPT = `你是一名简洁、具体的 IELTS 学习助手。只给下一步行动和必要反馈，不要写口号，不要夸大效果，不要伪造分数。优先指出 1-3 个最值得改的问题，回答要短、可执行。`;
 
 export async function POST(request: Request) {
   let body: { mode?: string; content?: string };
@@ -23,7 +23,7 @@ export async function POST(request: Request) {
       feedback:
         body.mode === "writing"
           ? "目的表达清楚。下一步补充一个具体影响和一个可执行请求，再检查冠词与句子衔接。"
-          : "先完成一项 10 分钟任务，并记录错因。首周优先建立四科基线，不要急着刷大量题。",
+          : "完成下一项任务，并记录错因。有空再继续做下一项。",
     });
   }
 

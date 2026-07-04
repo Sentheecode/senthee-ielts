@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { CheckCircle2, ExternalLink, Headphones, Mic, PenLine } from "lucide-react";
 import { AudioRecorder } from "./audio-recorder";
+import { WritingTopicBank } from "./writing-topic-bank";
 import { createBrowserLearnerRepository } from "@/lib/storage/browser-repository";
 import type { LearnerRepository } from "@/lib/storage/repository";
 
@@ -68,9 +69,9 @@ export function PracticeHub({ repository }: { repository?: LearnerRepository }) 
 
       {tab === "reading" && (
         <section className="practice-sheet">
-          <span className="source-label">AI 原创 · IELTS General Training 题型</span>
-          <h2>工作场景定位阅读</h2>
-          <blockquote>Employees may adjust their start and finish times, provided they complete their contracted hours and attend the weekly team meeting.</blockquote>
+          <span className="source-label">阅读</span>
+          <h2>信息定位阅读</h2>
+          <blockquote>Members may adjust their start and finish times, provided they complete the required hours and attend the weekly group meeting.</blockquote>
           <fieldset>
             <legend>Which benefit is offered to employees?</legend>
             {["free training courses", "flexible working hours", "remote work every day"].map((option) => (
@@ -85,19 +86,20 @@ export function PracticeHub({ repository }: { repository?: LearnerRepository }) 
 
       {tab === "writing" && (
         <section className="practice-sheet">
-          <span className="source-label">AI 原创 · General Training Task 1</span>
-          <h2>写一封信反映排班变化</h2>
-          <p>向经理说明新排班对你的影响，提出一个可行方案，并礼貌请求回复。先写一个核心段落。</p>
+          <span className="source-label">写作</span>
+          <h2>写一封简短信件</h2>
+          <p>说明一个安排变化对你的影响，提出一个可行方案，并礼貌请求回复。先写一个核心段落。</p>
           <label className="writing-label">写作练习内容<textarea aria-label="写作练习内容" value={writing} onChange={(event) => setWriting(event.target.value)} placeholder="建议 80–150 词…" /></label>
           <div className="writing-footer"><span>{writing.trim() ? writing.trim().split(/\s+/).length : 0} words</span><button className="primary-button" disabled={!writing.trim() || loading} onClick={submitWriting}>{loading ? "分析中…" : "提交给 Agent"}</button></div>
           {feedback && <div className="agent-feedback">{feedback}</div>}
+          <WritingTopicBank repository={repo} />
         </section>
       )}
 
       {tab === "speaking" && (
         <section className="practice-sheet">
-          <span className="source-label">AI 原创 · Speaking Part 2</span>
-          <h2>Describe a useful skill you learned at work</h2>
+          <span className="source-label">口语</span>
+          <h2>Describe a useful skill you learned</h2>
           <ul><li>what the skill was</li><li>how you learned it</li><li>how it helped you</li></ul>
           <p>准备 1 分钟，连续说 1–2 分钟。先追求完整表达，不要逐句翻译。</p>
           <AudioRecorder />

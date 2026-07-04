@@ -1,6 +1,6 @@
-# IELTS 7 · 个人学习 Agent
+# Senthee IELTS
 
-面向中国在职学习者的 IELTS General Training PWA。当前版本是 Senthee 的个人学习日志：学习贡献图、连续天数、每日 diff 都只来自真实学习动作，不包含演示进度。
+Senthee 的 IELTS 学习记录 App。学习贡献图、连续天数、每日 diff 都只来自真实学习动作，不包含演示进度。
 
 ## 当前部署与数据口径
 
@@ -8,7 +8,11 @@
 - 后端：部署在 Vercel 的 Next.js API Route，当前用于 `/api/coach` 调 DeepSeek。
 - 数据：学习记录保存在当前设备浏览器的 `localStorage`，首页可导出 JSON。
 - Supabase：今晚不需要登录。后续要做 iPhone / 安卓 / 电脑多端同步时，再把本地仓储替换成 Supabase。
+- Supabase 准备文件：新项目建好后可运行 `docs/supabase/schema.sql`，再配置 `NEXT_PUBLIC_SUPABASE_URL` 和 `NEXT_PUBLIC_SUPABASE_ANON_KEY`。
 - App 化：iPhone 用 Safari 打开线上地址，点“分享 → 添加到主屏幕”，之后从桌面图标 `Senthee IELTS` 打开，不需要从浏览器标签页进入。
+- 国内访问：Vercel 在国内可能慢或需要 VPN；日常使用建议按 `docs/deploy/aliyun.md` 部署到阿里云 ECS。
+- 如果不用 Docker，可按 `docs/deploy/pm2.md` 从 GitHub 拉代码并用 PM2 常驻运行。
+- iOS 原生壳：已加入 Capacitor 工程，见 `docs/mobile/ios-capacitor.md`。
 
 ## 本地运行
 
@@ -55,12 +59,27 @@ docker compose up -d --build
 
 容器监听 3000 端口。生产环境建议在前面配置 Caddy 或 Nginx，绑定域名并启用 HTTPS。口语音频当前只在浏览器中回放，不上传服务器；后续若长期保存，建议直传阿里云 OSS。
 
+更详细的国内部署说明见 [`docs/deploy/aliyun.md`](docs/deploy/aliyun.md)。
+
+如果你打算在服务器上 `git pull + npm ci + pm2`，直接看 [`docs/deploy/pm2.md`](docs/deploy/pm2.md)。
+
+服务器手动更新可以二选一：
+
+```bash
+# PM2
+git pull && bash scripts/server-update-pm2.sh
+
+# Docker
+git pull && bash scripts/server-update-docker.sh
+```
+
 ## 数据与材料
 
 - 学习记录当前保存在浏览器 `localStorage`，可从首页“今日学习 diff”区域导出 JSON。
 - 已接入真实记录的动作：首页任务完成、阅读检查、写作提交、词库复习。
+- 真题页只保存书名、Test、部分、答题卡、错题号和订正记录；不内置官方题干、阅读文章或音频。
 - 清理浏览器数据会删除本机记录，请定期导出。
-- 官方样题通过外链访问；内置示例均标记为 AI 原创，不冒充真题。
+- 官方样题通过外链访问；内置练习只作为日常训练使用，不冒充真题。
 - 下一阶段可把本地仓储接口替换为 Supabase，实现多设备同步而不改动主要页面流程。
 
 ## DeepSeek 接口

@@ -6,7 +6,7 @@ import type {
 } from "@/lib/domain/types";
 
 export interface LearnerState {
-  profile: { name: string; target: number; examType: "General Training" };
+  profile: { name: string };
   tasks: StudyTask[];
   attempts: LearningAttempt[];
   estimates: SkillEstimate[];
@@ -17,5 +17,7 @@ export interface LearnerRepository {
   load(): LearnerState;
   save(state: LearnerState): void;
   recordAttempt(attempt: LearningAttempt): LearnerState;
+  importJson(raw: string): LearnerState;
+  reset(): LearnerState;
   exportJson(): string;
 }

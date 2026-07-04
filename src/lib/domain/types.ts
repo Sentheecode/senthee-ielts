@@ -30,7 +30,6 @@ export interface LearningAttempt {
 export interface SkillEstimate {
   skill: Exclude<Skill, "vocabulary">;
   current: number | null;
-  target: number;
   confidence: "unmeasured" | "low" | "medium" | "high";
 }
 

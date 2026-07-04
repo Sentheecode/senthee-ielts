@@ -38,7 +38,7 @@ export function VocabularyReview({ repository }: { repository?: LearnerRepositor
   return (
     <div className="vocab-layout">
       <section className="vocab-card">
-        <div className="vocab-meta"><span>个人词块 · 工作场景</span><strong>{index + 1} / {seedLearnerState.vocabulary.length}</strong></div>
+        <div className="vocab-meta"><span>个人词块</span><strong>{index + 1} / {seedLearnerState.vocabulary.length}</strong></div>
         <div className="phrase-row"><h2>{item.phrase}</h2><button aria-label="播放发音" onClick={speak}><Volume2 aria-hidden="true" /></button></div>
         {revealed ? <div className="phrase-answer"><strong>{item.meaning}</strong><p>{item.example}</p></div> : <button className="outline-button" onClick={() => setRevealed(true)}>显示释义</button>}
         {revealed && <div className="review-actions"><button onClick={next}>还要复习</button><button className="primary-button" onClick={next}>掌握了</button></div>}

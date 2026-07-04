@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Senthee IELTS 7 · 学习 Agent",
-  description: "为中国学习者设计的 IELTS General Training 私人学习系统",
+  title: "Senthee IELTS",
+  description: "Senthee 的 IELTS 学习记录",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",

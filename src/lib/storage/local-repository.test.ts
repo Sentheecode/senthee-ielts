@@ -57,8 +57,65 @@ describe("LocalLearnerRepository", () => {
     expect(repository.load().attempts[0].kind).toBe("correction");
   });
 
-  it("exports all learner data as JSON", () => {
+  it("exports learner data without hidden band or exam labels", () => {
     const repository = new LocalLearnerRepository(new MemoryStorage());
-    expect(JSON.parse(repository.exportJson()).profile.target).toBe(7);
+    const exported = repository.exportJson();
+
+    expect(JSON.parse(exported).profile).toEqual({ name: "Senthee" });
+    expect(exported).not.toContain("target");
+    expect(exported).not.toContain("General Training");
+  });
+
+  it("imports a valid backup JSON into the current device", () => {
+    const repository = new LocalLearnerRepository(new MemoryStorage());
+    const backup = {
+      ...repository.load(),
+      attempts: [
+        {
+          id: "backup-1",
+          taskId: "listen-10",
+          date: "2026-07-04",
+          kind: "completion" as const,
+          minutes: 10,
+          detail: "备份里的听力任务",
+        },
+      ],
+    };
+
+    const imported = repository.importJson(JSON.stringify(backup));
+
+    expect(imported.profile.name).toBe("Senthee");
+    expect(repository.load().attempts[0].detail).toBe("备份里的听力任务");
+  });
+
+  it("rejects invalid backup JSON without replacing existing data", () => {
+    const repository = new LocalLearnerRepository(new MemoryStorage());
+    repository.recordAttempt({
+      id: "keep-me",
+      taskId: "listen-10",
+      date: "2026-07-04",
+      kind: "completion",
+      minutes: 10,
+    });
+
+    expect(() => repository.importJson("{\"profile\":null}")).toThrow("备份文件格式不正确");
+    expect(repository.load().attempts[0].id).toBe("keep-me");
+  });
+
+  it("resets the device back to Senthee's empty starter log", () => {
+    const repository = new LocalLearnerRepository(new MemoryStorage());
+    repository.recordAttempt({
+      id: "remove-me",
+      taskId: "listen-10",
+      date: "2026-07-04",
+      kind: "completion",
+      minutes: 10,
+    });
+
+    const reset = repository.reset();
+
+    expect(reset.profile.name).toBe("Senthee");
+    expect(reset.attempts).toEqual([]);
+    expect(repository.load().attempts).toEqual([]);
   });
 });

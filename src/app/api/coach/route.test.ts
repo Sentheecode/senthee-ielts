@@ -12,7 +12,7 @@ describe("coach API", () => {
     const response = await POST(new Request("http://localhost/api/coach", { method: "POST", body: JSON.stringify({ mode: "coach", content: "今天练什么？" }) }));
     const data = await response.json();
     expect(data.provider).toBe("offline");
-    expect(data.feedback).toContain("10 分钟");
+    expect(data.feedback).toContain("完成下一项任务");
     process.env.DEEPSEEK_API_KEY = previous;
   });
 });

@@ -7,9 +7,21 @@ export interface StorageLike {
   setItem(key: string, value: string): void;
 }
 
-const STORAGE_KEY = "ielts-seven:v2:senthee";
+const STORAGE_KEY = "senthee-ielts:v3";
 
 const cloneSeed = () => structuredClone(seedLearnerState);
+
+function isLearnerState(value: unknown): value is LearnerState {
+  if (!value || typeof value !== "object") return false;
+  const state = value as LearnerState;
+  return (
+    typeof state.profile?.name === "string" &&
+    Array.isArray(state.tasks) &&
+    Array.isArray(state.attempts) &&
+    Array.isArray(state.estimates) &&
+    Array.isArray(state.vocabulary)
+  );
+}
 
 export class LocalLearnerRepository implements LearnerRepository {
   constructor(private readonly storage: StorageLike) {}
@@ -38,6 +50,26 @@ export class LocalLearnerRepository implements LearnerRepository {
       this.save(state);
     }
     return state;
+  }
+
+  importJson(raw: string): LearnerState {
+    let parsed: unknown;
+    try {
+      parsed = JSON.parse(raw);
+    } catch {
+      throw new Error("备份文件格式不正确");
+    }
+    if (!isLearnerState(parsed)) {
+      throw new Error("备份文件格式不正确");
+    }
+    this.save(parsed);
+    return parsed;
+  }
+
+  reset(): LearnerState {
+    const initial = cloneSeed();
+    this.save(initial);
+    return initial;
   }
 
   exportJson(): string {

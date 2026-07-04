@@ -2,9 +2,9 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Senthee IELTS 7 · 学习 Agent",
+    name: "Senthee IELTS",
     short_name: "Senthee IELTS",
-    description: "为中国学习者设计的 IELTS General Training 私人学习系统",
+    description: "Senthee 的 IELTS 学习记录",
     start_url: "/",
     display: "standalone",
     background_color: "#ffffff",
