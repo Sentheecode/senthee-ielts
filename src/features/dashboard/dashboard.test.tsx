@@ -26,4 +26,12 @@ describe("Dashboard", () => {
     expect(screen.getByText("10 pts")).toBeInTheDocument();
     expect(screen.getByText(/Section 1 表格填空/)).toBeInTheDocument();
   });
+
+  it("offers a complete personal data export", () => {
+    const repository = new LocalLearnerRepository(new MemoryStorage());
+    render(<Dashboard repository={repository} />);
+    expect(
+      screen.getByRole("button", { name: "导出学习数据" }),
+    ).toBeInTheDocument();
+  });
 });

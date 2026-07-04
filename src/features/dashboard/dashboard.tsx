@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { ArrowRight, Bot, CheckCircle2, Clock3, Sparkles } from "lucide-react";
+import { ArrowRight, Bot, CheckCircle2, Clock3, Download, Sparkles } from "lucide-react";
 import { AppShell } from "@/components/app-shell";
 import { calculateDailyContribution, selectNextTask } from "@/lib/domain/learning";
 import type { TaskDuration } from "@/lib/domain/types";
@@ -42,6 +42,16 @@ export function Dashboard({ repository }: { repository?: LearnerRepository }) {
 
   const latest = state.attempts.at(-1);
 
+  const exportData = () => {
+    const blob = new Blob([repo.exportJson()], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `ielts-learning-${new Date().toISOString().slice(0, 10)}.json`;
+    link.click();
+    URL.revokeObjectURL(url);
+  };
+
   return (
     <AppShell>
       <main className="dashboard">
@@ -78,13 +88,17 @@ export function Dashboard({ repository }: { repository?: LearnerRepository }) {
               </div>
             </section>
 
+            <div className="mobile-skills">
+              <SkillProgress estimates={state.estimates} idSuffix="-mobile" />
+            </div>
+
             <section className="panel diff-panel" aria-labelledby="diff-title">
-              <div className="section-heading-row compact"><div><h2 id="diff-title">今日学习 diff</h2><p>每一分都能解释来源</p></div><strong className="points">{points} pts</strong></div>
+              <div className="section-heading-row compact"><div><h2 id="diff-title">今日学习 diff</h2><p>每一分都能解释来源</p></div><div className="diff-actions"><strong className="points">{points} pts</strong><button onClick={exportData} aria-label="导出学习数据"><Download aria-hidden="true" />导出</button></div></div>
               {latest ? <div className="diff-row"><span className="diff-plus">+</span><div><strong>{latest.detail}</strong><p>{latest.minutes} 分钟 · {latest.kind === "correction" ? "完成订正" : "完成练习"}</p></div></div> : <div className="empty-diff">完成第一项任务后，这里会出现今天的学习变化。</div>}
             </section>
           </div>
           <aside className="right-column">
-            <SkillProgress estimates={state.estimates} />
+            <div className="desktop-skills"><SkillProgress estimates={state.estimates} /></div>
             <section className="panel coach-note">
               <div className="coach-title"><Bot aria-hidden="true" /><div><h2>Agent 起步建议</h2><p>基于当前尚未诊断的状态</p></div></div>
               <p>先用官方免费样题测出四科基线。今天不要刷很多题，重点记录“为什么错”。</p>

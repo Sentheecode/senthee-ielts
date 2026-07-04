@@ -8,11 +8,12 @@ const labels = {
   speaking: { name: "口语", icon: MessageCircle },
 };
 
-export function SkillProgress({ estimates }: { estimates: SkillEstimate[] }) {
+export function SkillProgress({ estimates, idSuffix = "" }: { estimates: SkillEstimate[]; idSuffix?: string }) {
+  const titleId = `skills-title${idSuffix}`;
   return (
-    <section className="panel skills-panel" aria-labelledby="skills-title">
+    <section className="panel skills-panel" aria-labelledby={titleId}>
       <div className="section-heading-row compact">
-        <div><h2 id="skills-title">四项技能</h2><p>目标 7 分</p></div>
+        <div><h2 id={titleId}>四项技能</h2><p>目标 7 分</p></div>
       </div>
       <div className="skill-list">
         {estimates.map((item) => {
