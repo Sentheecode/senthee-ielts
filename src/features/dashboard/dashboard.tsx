@@ -21,6 +21,7 @@ export function Dashboard({ repository }: { repository?: LearnerRepository }) {
   const [repo] = useState(() => repository ?? createBrowserLearnerRepository());
   const [state, setState] = useState<LearnerState>(() => repo.load());
   const [dataMessage, setDataMessage] = useState("");
+
   const today = todayISO();
   const task = useMemo(() => selectNextTask(state.tasks, 10), [state.tasks]);
   const todayAttempts = getAttemptsForDate(state.attempts, today);
@@ -38,7 +39,7 @@ export function Dashboard({ repository }: { repository?: LearnerRepository }) {
       minutes: task.duration,
       detail: task.title,
     });
-    setState({ ...next });
+    setState(next);
   };
 
   const todayDiff = [...todayAttempts].reverse();
@@ -53,24 +54,27 @@ export function Dashboard({ repository }: { repository?: LearnerRepository }) {
     URL.revokeObjectURL(url);
   };
 
-  const importData = async (event: ChangeEvent<HTMLInputElement>) => {
+  const importData = (event: ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
     if (!file) return;
-    try {
-      const next = repo.importJson(await file.text());
-      setState({ ...next });
-      setDataMessage("备份已导入");
-    } catch (error) {
-      setDataMessage(error instanceof Error ? error.message : "备份文件格式不正确");
-    } finally {
+    const reader = new FileReader();
+    reader.onload = () => {
+      try {
+        const next = repo.importJson(reader.result as string);
+        setState(next);
+        setDataMessage("备份已导入");
+      } catch (error) {
+        setDataMessage(error instanceof Error ? error.message : "备份文件格式不正确");
+      }
       event.target.value = "";
-    }
+    };
+    reader.readAsText(file);
   };
 
   const resetData = () => {
     if (!window.confirm("确认清空本机学习记录？清空前建议先导出备份。")) return;
     const next = repo.reset();
-    setState({ ...next });
+    setState(next);
     setDataMessage("本机记录已清空");
   };
 

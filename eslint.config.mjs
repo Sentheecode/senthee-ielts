@@ -13,6 +13,8 @@ const eslintConfig = defineConfig([
     "build/**",
     ".worktrees/**",
     "next-env.d.ts",
+    // Standalone HTML/JS files loaded by native WebViews:
+    "native/www/app.js",
   ]),
 ]);
 

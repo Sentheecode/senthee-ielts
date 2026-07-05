@@ -14,28 +14,14 @@ class MemoryStorage implements StorageLike {
 }
 
 describe("WritingTopicBank", () => {
-  beforeEach(() => {
-    vi.stubGlobal("fetch", vi.fn(async () => new Response(JSON.stringify([
-      {
-        year: 2026,
-        date: "2026/1/1",
-        topic: "Education & Learning",
-        en: "Some people think children should read more books. Discuss both views and give your opinion.",
-        zh: "有人认为孩子应该多读书。讨论双方观点并给出你的看法。",
-      },
-    ]), { status: 200 })));
-  });
-
-  afterEach(() => {
-    vi.unstubAllGlobals();
-  });
-
-  it("loads writing topics from the external public JSON without bundling them", async () => {
+  it("shows bundled writing topics immediately", () => {
     const repository = new LocalLearnerRepository(new MemoryStorage());
-    render(<WritingTopicBank repository={repository} />);
+    const { container } = render(<WritingTopicBank repository={repository} />);
 
-    expect(await screen.findByText(/Some people think children/)).toBeInTheDocument();
-    expect(screen.getByText("来源：外部题库 JSON")).toBeInTheDocument();
+    // Topics render immediately from bundled LOCAL_TOPICS (20 writing prompts)
+    expect(container.innerHTML).toContain("university education");
+    expect(container.innerHTML).toContain("topic-card");
+    expect(screen.getByText(/本地题库/)).toBeInTheDocument();
   });
 
   it("records a selected writing topic as output practice", async () => {
@@ -43,15 +29,16 @@ describe("WritingTopicBank", () => {
     const repository = new LocalLearnerRepository(new MemoryStorage());
     render(<WritingTopicBank repository={repository} />);
 
-    await screen.findByText(/Some people think children/);
-    await user.click(screen.getByRole("button", { name: "记录这题" }));
+    // Click the first topic's "记录这题" button
+    const recordButtons = screen.getAllByRole("button", { name: "记录这题" });
+    await user.click(recordButtons[0]);
 
     expect(repository.load().attempts).toMatchObject([
       {
         taskId: "writing-topic",
         kind: "output",
         minutes: 20,
-        detail: expect.stringContaining("Education & Learning"),
+        detail: expect.stringContaining("university education"),
       },
     ]);
   });

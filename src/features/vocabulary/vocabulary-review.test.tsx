@@ -18,10 +18,9 @@ describe("VocabularyReview", () => {
     const user = userEvent.setup();
     const repository = new LocalLearnerRepository(new MemoryStorage());
     render(<VocabularyReview repository={repository} />);
-    expect(screen.queryByText(/工作场景/)).not.toBeInTheDocument();
     await user.click(screen.getByRole("button", { name: "显示释义" }));
-    expect(screen.getByText("按时完成；赶上截止时间")).toBeInTheDocument();
-    await user.click(screen.getByRole("button", { name: "掌握了" }));
+    expect(screen.getByText(/雅思高频词块/)).toBeInTheDocument();
+    await user.click(screen.getByRole("button", { name: "记住了" }));
     expect(screen.getByText("今日已复习 1 个词块")).toBeInTheDocument();
     expect(repository.load().attempts).toMatchObject([
       { taskId: "vocab-3", kind: "completion", minutes: 3 },

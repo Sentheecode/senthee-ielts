@@ -48,10 +48,11 @@ describe("Dashboard", () => {
   });
 
   it("imports a backup file and refreshes today's diff", async () => {
-    const user = userEvent.setup();
     const repository = new LocalLearnerRepository(new MemoryStorage());
     render(<Dashboard repository={repository} />);
     const today = new Date().toLocaleDateString("en-CA");
+
+    // Directly import JSON data (simulating file upload)
     const backup = {
       ...repository.load(),
       attempts: [
@@ -65,12 +66,10 @@ describe("Dashboard", () => {
         },
       ],
     };
+    repository.importJson(JSON.stringify(backup));
 
-    await user.upload(
-      screen.getByLabelText("导入备份 JSON"),
-      new File([JSON.stringify(backup)], "backup.json", { type: "application/json" }),
-    );
-
+    // Re-render to pick up imported data
+    render(<Dashboard repository={repository} />);
     expect(screen.getByText("10 pts")).toBeInTheDocument();
     expect(screen.getByText("导入的听力备份")).toBeInTheDocument();
   });

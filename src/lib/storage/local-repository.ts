@@ -28,9 +28,11 @@ export class LocalLearnerRepository implements LearnerRepository {
 
   load(): LearnerState {
     const saved = this.storage.getItem(STORAGE_KEY);
-    if (saved) return JSON.parse(saved) as LearnerState;
+    if (saved) {
+      try { return JSON.parse(saved) as LearnerState; } catch { /* fall through */ }
+    }
     const initial = cloneSeed();
-    this.save(initial);
+    this.storage.setItem(STORAGE_KEY, JSON.stringify(initial));
     return initial;
   }
 
@@ -45,7 +47,7 @@ export class LocalLearnerRepository implements LearnerRepository {
       state.tasks = state.tasks.map((task) =>
         task.id === attempt.taskId && attempt.kind !== "passive"
           ? { ...task, completed: true }
-          : task,
+          : task
       );
       this.save(state);
     }
@@ -73,6 +75,7 @@ export class LocalLearnerRepository implements LearnerRepository {
   }
 
   exportJson(): string {
-    return JSON.stringify(this.load(), null, 2);
+    const saved = this.storage.getItem(STORAGE_KEY);
+    return saved ?? JSON.stringify(cloneSeed(), null, 2);
   }
 }

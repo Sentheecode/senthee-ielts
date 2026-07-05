@@ -1,0 +1,5394 @@
+[
+  {
+    "id": "v-0001",
+    "phrase": "abandon",
+    "meaning": "v. 放弃，抛弃",
+    "example": "The project was abandoned due to lack of funding.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0002",
+    "phrase": "ability",
+    "meaning": "n. 能力，才干",
+    "example": "She has the ability to solve complex problems.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0003",
+    "phrase": "abroad",
+    "meaning": "adv. 在国外",
+    "example": "He decided to study abroad for a year.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0004",
+    "phrase": "absorb",
+    "meaning": "v. 吸收，理解",
+    "example": "Plants absorb carbon dioxide from the air.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0005",
+    "phrase": "abstract",
+    "meaning": "adj. 抽象的 n. 摘要",
+    "example": "The concept is too abstract for beginners.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0006",
+    "phrase": "abundant",
+    "meaning": "adj. 丰富的",
+    "example": "The region has abundant natural resources.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0007",
+    "phrase": "academic",
+    "meaning": "adj. 学术的",
+    "example": "Academic performance is not the only measure of success.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0008",
+    "phrase": "accelerate",
+    "meaning": "v. 加速",
+    "example": "The car accelerated rapidly on the highway.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0009",
+    "phrase": "access",
+    "meaning": "n./v. 通道，接近",
+    "example": "Students need access to reliable internet.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0010",
+    "phrase": "accommodate",
+    "meaning": "v. 容纳，适应",
+    "example": "The hotel can accommodate 200 guests.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0011",
+    "phrase": "accomplish",
+    "meaning": "v. 完成",
+    "example": "She accomplished her goal of running a marathon.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0012",
+    "phrase": "accumulate",
+    "meaning": "v. 积累",
+    "example": "Dust accumulated on the shelves over the years.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0013",
+    "phrase": "accurate",
+    "meaning": "adj. 精确的",
+    "example": "The data needs to be accurate for the report.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0014",
+    "phrase": "achieve",
+    "meaning": "v. 达到",
+    "example": "He achieved his dream of becoming a doctor.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0015",
+    "phrase": "acknowledge",
+    "meaning": "v. 承认，答谢",
+    "example": "She acknowledged the support of her family.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0016",
+    "phrase": "acquire",
+    "meaning": "v. 获得，学到",
+    "example": "He acquired fluency in three languages.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0017",
+    "phrase": "adapt",
+    "meaning": "v. 适应，改编",
+    "example": "Animals adapt to their environment over time.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0018",
+    "phrase": "adequate",
+    "meaning": "adj. 足够的",
+    "example": "We need adequate preparation for the exam.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0019",
+    "phrase": "adjacent",
+    "meaning": "adj. 邻近的",
+    "example": "The school is adjacent to the park.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0020",
+    "phrase": "adjust",
+    "meaning": "v. 调整",
+    "example": "She adjusted her schedule to fit the meeting.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0021",
+    "phrase": "administration",
+    "meaning": "n. 管理",
+    "example": "The university administration approved the new policy.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0022",
+    "phrase": "advantage",
+    "meaning": "n. 优势",
+    "example": "Being bilingual is a significant advantage.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0023",
+    "phrase": "adverse",
+    "meaning": "adj. 不利的",
+    "example": "Adverse weather conditions delayed the flight.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0024",
+    "phrase": "advocate",
+    "meaning": "v./n. 提倡，拥护者",
+    "example": "Many advocate for better public transport.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0025",
+    "phrase": "affect",
+    "meaning": "v. 影响",
+    "example": "Climate change will affect coastal cities.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0026",
+    "phrase": "afford",
+    "meaning": "v. 负担得起",
+    "example": "We cannot afford to buy a house right now.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0027",
+    "phrase": "agenda",
+    "meaning": "n. 议程",
+    "example": "The meeting agenda includes budget review.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0028",
+    "phrase": "allocate",
+    "meaning": "v. 分配",
+    "example": "The government allocated funds for education.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0029",
+    "phrase": "alter",
+    "meaning": "v. 改变",
+    "example": "The plan was altered after the feedback.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0030",
+    "phrase": "alternative",
+    "meaning": "n./adj. 替代方案",
+    "example": "Solar power is a viable alternative to fossil fuels.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0031",
+    "phrase": "ambiguous",
+    "meaning": "adj. 模棱两可的",
+    "example": "The wording of the contract is ambiguous.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0032",
+    "phrase": "ambitious",
+    "meaning": "adj. 有雄心的",
+    "example": "She set an ambitious target for this year.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0033",
+    "phrase": "analyse",
+    "meaning": "v. 分析",
+    "example": "We need to analyse the survey results.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0034",
+    "phrase": "anniversary",
+    "meaning": "n. 周年纪念",
+    "example": "They celebrated their tenth anniversary.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0035",
+    "phrase": "annual",
+    "meaning": "adj. 每年的",
+    "example": "The company releases its annual report in March.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0036",
+    "phrase": "anticipate",
+    "meaning": "v. 预期",
+    "example": "We anticipate a rise in demand next quarter.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0037",
+    "phrase": "anxious",
+    "meaning": "adj. 焦虑的",
+    "example": "She felt anxious before the interview.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0038",
+    "phrase": "apparent",
+    "meaning": "adj. 明显的",
+    "example": "It was apparent that she was not telling the truth.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0039",
+    "phrase": "appeal",
+    "meaning": "v./n. 吸引，上诉",
+    "example": "The idea appeals to young professionals.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0040",
+    "phrase": "appetite",
+    "meaning": "n. 食欲",
+    "example": "The scandal has damaged his appetite for power.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0041",
+    "phrase": "appliance",
+    "meaning": "n. 器具",
+    "example": "Household appliances consume a lot of electricity.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0042",
+    "phrase": "application",
+    "meaning": "n. 申请",
+    "example": "She submitted her job application online.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0043",
+    "phrase": "appreciate",
+    "meaning": "v. 欣赏，感激",
+    "example": "I appreciate your help with this.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0044",
+    "phrase": "approach",
+    "meaning": "v./n. 接近，方法",
+    "example": "We need a different approach to this problem.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0045",
+    "phrase": "appropriate",
+    "meaning": "adj. 适当的",
+    "example": "Wear appropriate clothing for the interview.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0046",
+    "phrase": "approval",
+    "meaning": "n. 批准",
+    "example": "The project received official approval yesterday.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0047",
+    "phrase": "arbitrary",
+    "meaning": "adj. 任意的",
+    "example": "The decision seemed completely arbitrary.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0048",
+    "phrase": "aspect",
+    "meaning": "n. 方面",
+    "example": "We need to consider every aspect of the plan.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0049",
+    "phrase": "assess",
+    "meaning": "v. 评估",
+    "example": "Teachers assess students through various methods.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0050",
+    "phrase": "assign",
+    "meaning": "v. 分配",
+    "example": "The manager assigned the task to her team.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0051",
+    "phrase": "assist",
+    "meaning": "v. 帮助",
+    "example": "The nurse assisted the doctor during surgery.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0052",
+    "phrase": "associate",
+    "meaning": "v. 联系",
+    "example": "People often associate summer with holidays.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0053",
+    "phrase": "assume",
+    "meaning": "v. 假定",
+    "example": "Let us assume the proposal is accepted.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0054",
+    "phrase": "assure",
+    "meaning": "v. 保证",
+    "example": "I assure you that the data is correct.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0055",
+    "phrase": "atmosphere",
+    "meaning": "n. 气氛",
+    "example": "The atmosphere in the office was tense.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0056",
+    "phrase": "attach",
+    "meaning": "v. 附上",
+    "example": "Please attach your CV to the email.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0057",
+    "phrase": "attain",
+    "meaning": "v. 达到",
+    "example": "She attained her goal of publishing a book.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0058",
+    "phrase": "attitude",
+    "meaning": "n. 态度",
+    "example": "A positive attitude helps overcome challenges.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0059",
+    "phrase": "attract",
+    "meaning": "v. 吸引",
+    "example": "The museum attracts visitors from around the world.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0060",
+    "phrase": "attribute",
+    "meaning": "v./n. 归因于",
+    "example": "Success is often attributed to hard work.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0061",
+    "phrase": "authority",
+    "meaning": "n. 权威",
+    "example": "The health authority issued new guidelines.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0062",
+    "phrase": "available",
+    "meaning": "adj. 可获得的",
+    "example": "Tickets are available online or at the box office.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0063",
+    "phrase": "aware",
+    "meaning": "adj. 意识到的",
+    "example": "Are you aware of the risks involved?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0064",
+    "phrase": "awkward",
+    "meaning": "adj. 尴尬的",
+    "example": "There was an awkward silence after the argument.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0065",
+    "phrase": "background",
+    "meaning": "n. 背景",
+    "example": "Tell me about your educational background.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0066",
+    "phrase": "bacteria",
+    "meaning": "n. 细菌",
+    "example": "Some bacteria are beneficial to human health.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0067",
+    "phrase": "ban",
+    "meaning": "v./n. 禁止",
+    "example": "The city banned single-use plastics in 2024.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0068",
+    "phrase": "barrier",
+    "meaning": "n. 障碍",
+    "example": "Language can be a barrier to communication.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0069",
+    "phrase": "behalf",
+    "meaning": "n. 代表",
+    "example": "I spoke on behalf of the entire team.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0070",
+    "phrase": "behaviour",
+    "meaning": "n. 行为",
+    "example": "His behaviour at the meeting was unprofessional.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0071",
+    "phrase": "benefit",
+    "meaning": "n./v. 利益",
+    "example": "Regular exercise benefits your health.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0072",
+    "phrase": "bias",
+    "meaning": "n. 偏见",
+    "example": "The study was criticised for cultural bias.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0073",
+    "phrase": "bill",
+    "meaning": "n. 账单",
+    "example": "The restaurant bill came to fifty pounds.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0074",
+    "phrase": "blame",
+    "meaning": "v./n. 责怪",
+    "example": "Do not blame others for your mistakes.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0075",
+    "phrase": "boost",
+    "meaning": "v./n. 促进",
+    "example": "The policy boosted economic growth.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0076",
+    "phrase": "boundary",
+    "meaning": "n. 边界",
+    "example": "The river forms the boundary between countries.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0077",
+    "phrase": "brainstorm",
+    "meaning": "v. 头脑风暴",
+    "example": "The team brainstormed ideas for the campaign.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0078",
+    "phrase": "breed",
+    "meaning": "v. 繁殖",
+    "example": "Some animals breed only in spring.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0079",
+    "phrase": "brief",
+    "meaning": "adj. 简短的",
+    "example": "Let me give you a brief overview.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0080",
+    "phrase": "broad",
+    "meaning": "adj. 广泛的",
+    "example": "We need a broad range of skills for this job.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0081",
+    "phrase": "budget",
+    "meaning": "n. 预算",
+    "example": "The budget for education was increased.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0082",
+    "phrase": "burden",
+    "meaning": "n. 负担",
+    "example": "Student debt is a growing burden.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0083",
+    "phrase": "calculate",
+    "meaning": "v. 计算",
+    "example": "We need to calculate the total cost.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0084",
+    "phrase": "campaign",
+    "meaning": "n. 活动",
+    "example": "The charity launched a fundraising campaign.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0085",
+    "phrase": "candidate",
+    "meaning": "n. 候选人",
+    "example": "She is a strong candidate for the position.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0086",
+    "phrase": "capable",
+    "meaning": "adj. 有能力的",
+    "example": "He is capable of handling complex projects.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0087",
+    "phrase": "capacity",
+    "meaning": "n. 容量",
+    "example": "The stadium has a capacity of fifty thousand.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0088",
+    "phrase": "capture",
+    "meaning": "v. 捕获",
+    "example": "The photograph captures the essence of the city.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0089",
+    "phrase": "career",
+    "meaning": "n. 职业",
+    "example": "She is at the peak of her career.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0090",
+    "phrase": "category",
+    "meaning": "n. 类别",
+    "example": "Which category does this expense fall under?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0091",
+    "phrase": "cause",
+    "meaning": "n./v. 原因",
+    "example": "The cause of the fire is still unknown.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0092",
+    "phrase": "celebrity",
+    "meaning": "n. 名人",
+    "example": "The celebrity arrived at the event with bodyguards.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0093",
+    "phrase": "ceremony",
+    "meaning": "n. 典礼",
+    "example": "The award ceremony was held last night.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0094",
+    "phrase": "challenge",
+    "meaning": "n./v. 挑战",
+    "example": "Climate change is the greatest challenge of our time.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0095",
+    "phrase": "channel",
+    "meaning": "n. 频道",
+    "example": "The news was broadcast on all major channels.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0096",
+    "phrase": "chapter",
+    "meaning": "n. 章节",
+    "example": "Read chapter five before the seminar.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0097",
+    "phrase": "character",
+    "meaning": "n. 性格",
+    "example": "Her character was forged by hardship.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0098",
+    "phrase": "charity",
+    "meaning": "n. 慈善",
+    "example": "The event raised money for local charities.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0099",
+    "phrase": "chart",
+    "meaning": "n. 图表",
+    "example": "The chart shows a steady increase in sales.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0100",
+    "phrase": "chemical",
+    "meaning": "adj./n. 化学的",
+    "example": "The water contains harmful chemicals.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0101",
+    "phrase": "circumstance",
+    "meaning": "n. 情况",
+    "example": "Under the circumstances, we have no choice.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0102",
+    "phrase": "cite",
+    "meaning": "v. 引用",
+    "example": "She cited several studies to support her argument.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0103",
+    "phrase": "civil",
+    "meaning": "adj. 公民的",
+    "example": "Civil rights are fundamental to democracy.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0104",
+    "phrase": "claim",
+    "meaning": "v./n. 声称",
+    "example": "He claimed that he had not received the email.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0105",
+    "phrase": "classic",
+    "meaning": "adj. 经典的",
+    "example": "War and Peace is a classic novel.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0106",
+    "phrase": "climate",
+    "meaning": "n. 气候",
+    "example": "The climate in the south is much warmer.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0107",
+    "phrase": "collapse",
+    "meaning": "v./n. 倒塌",
+    "example": "The building collapsed during the earthquake.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0108",
+    "phrase": "colleague",
+    "meaning": "n. 同事",
+    "example": "I discussed the issue with a colleague.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0109",
+    "phrase": "combine",
+    "meaning": "v. 结合",
+    "example": "The two companies decided to combine resources.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0110",
+    "phrase": "comfort",
+    "meaning": "n./v. 舒适",
+    "example": "The hotel provides comfort and convenience.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0111",
+    "phrase": "command",
+    "meaning": "n./v. 掌握",
+    "example": "She has a good command of English.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0112",
+    "phrase": "comment",
+    "meaning": "n./v. 评论",
+    "example": "He made an interesting comment during the debate.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0113",
+    "phrase": "commit",
+    "meaning": "v. 承诺",
+    "example": "She committed to finishing the project on time.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0114",
+    "phrase": "communicate",
+    "meaning": "v. 交流",
+    "example": "Technology helps us communicate across distances.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0115",
+    "phrase": "community",
+    "meaning": "n. 社区",
+    "example": "The local community organised a cleanup event.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0116",
+    "phrase": "compensate",
+    "meaning": "v. 补偿",
+    "example": "The company compensated workers for overtime.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0117",
+    "phrase": "compete",
+    "meaning": "v. 竞争",
+    "example": "Athletes compete for gold medals.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0118",
+    "phrase": "complex",
+    "meaning": "adj. 复杂的",
+    "example": "The issue is more complex than it appears.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0119",
+    "phrase": "component",
+    "meaning": "n. 组件",
+    "example": "Water is a key component of all living things.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0120",
+    "phrase": "compose",
+    "meaning": "v. 组成",
+    "example": "The team is composed of experts.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0121",
+    "phrase": "comprehensive",
+    "meaning": "adj. 全面的",
+    "example": "The report provides a comprehensive analysis.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0122",
+    "phrase": "concentrate",
+    "meaning": "v. 集中",
+    "example": "It is hard to concentrate with noise.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0123",
+    "phrase": "concept",
+    "meaning": "n. 概念",
+    "example": "The concept of zero was revolutionary.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0124",
+    "phrase": "concern",
+    "meaning": "n./v. 关心",
+    "example": "The main concern is student safety.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0125",
+    "phrase": "conclude",
+    "meaning": "v. 得出结论",
+    "example": "From the evidence, we can conclude that...",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0126",
+    "phrase": "concrete",
+    "meaning": "adj. 具体的",
+    "example": "Can you give a concrete example?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0127",
+    "phrase": "condition",
+    "meaning": "n. 条件",
+    "example": "The car is in excellent condition.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0128",
+    "phrase": "conduct",
+    "meaning": "v./n. 进行",
+    "example": "The experiment was conducted over six months.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0129",
+    "phrase": "conference",
+    "meaning": "n. 会议",
+    "example": "She will speak at the international conference.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0130",
+    "phrase": "confident",
+    "meaning": "adj. 自信的",
+    "example": "He is confident about passing the exam.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0131",
+    "phrase": "confirm",
+    "meaning": "v. 确认",
+    "example": "Please confirm your attendance by Friday.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0132",
+    "phrase": "conflict",
+    "meaning": "n./v. 冲突",
+    "example": "The conflict between groups lasted for years.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0133",
+    "phrase": "confuse",
+    "meaning": "v. 混淆",
+    "example": "The instructions confused many students.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0134",
+    "phrase": "connect",
+    "meaning": "v. 连接",
+    "example": "The train connects London to Edinburgh.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0135",
+    "phrase": "consequence",
+    "meaning": "n. 后果",
+    "example": "He did not consider the consequences.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0136",
+    "phrase": "conservation",
+    "meaning": "n. 保护",
+    "example": "Wildlife conservation is vital for biodiversity.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0137",
+    "phrase": "considerable",
+    "meaning": "adj. 相当大的",
+    "example": "Considerable progress has been made.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0138",
+    "phrase": "consistent",
+    "meaning": "adj. 一致的",
+    "example": "Her performance has been consistently good.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0139",
+    "phrase": "constant",
+    "meaning": "adj. 不断的",
+    "example": "The constant noise made it hard to sleep.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0140",
+    "phrase": "construct",
+    "meaning": "v. 建造",
+    "example": "They plan to construct a new bridge.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0141",
+    "phrase": "consult",
+    "meaning": "v. 咨询",
+    "example": "You should consult a doctor.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0142",
+    "phrase": "consume",
+    "meaning": "v. 消耗",
+    "example": "Americans consume more energy per capita.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0143",
+    "phrase": "contact",
+    "meaning": "v./n. 联系",
+    "example": "Please contact us if you have questions.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0144",
+    "phrase": "contain",
+    "meaning": "v. 包含",
+    "example": "The book contains ten chapters.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0145",
+    "phrase": "contemporary",
+    "meaning": "adj. 当代的",
+    "example": "Contemporary art is often controversial.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0146",
+    "phrase": "context",
+    "meaning": "n. 语境",
+    "example": "Words must be understood in context.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0147",
+    "phrase": "contract",
+    "meaning": "n. 合同",
+    "example": "He signed a two-year employment contract.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0148",
+    "phrase": "contradict",
+    "meaning": "v. 反驳",
+    "example": "The findings contradict earlier research.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0149",
+    "phrase": "contrast",
+    "meaning": "n./v. 对比",
+    "example": "There is a sharp contrast between rich and poor.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0150",
+    "phrase": "contribute",
+    "meaning": "v. 贡献",
+    "example": "Everyone should contribute to society.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0151",
+    "phrase": "convenient",
+    "meaning": "adj. 方便的",
+    "example": "Online shopping is very convenient.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0152",
+    "phrase": "convince",
+    "meaning": "v. 说服",
+    "example": "She convinced him to change his mind.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0153",
+    "phrase": "cooperate",
+    "meaning": "v. 合作",
+    "example": "The two countries agreed to cooperate.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0154",
+    "phrase": "coordinate",
+    "meaning": "v. 协调",
+    "example": "She needs to coordinate the team schedule.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0155",
+    "phrase": "core",
+    "meaning": "adj./n. 核心",
+    "example": "English is a core subject in schools.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0156",
+    "phrase": "corporate",
+    "meaning": "adj. 公司的",
+    "example": "Corporate responsibility is increasingly important.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0157",
+    "phrase": "correspond",
+    "meaning": "v. 通信",
+    "example": "I correspond with a penfriend in Germany.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0158",
+    "phrase": "counterpart",
+    "meaning": "n. 对应物",
+    "example": "The CEO met with his Japanese counterpart.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0159",
+    "phrase": "coverage",
+    "meaning": "n. 报道",
+    "example": "The media coverage was extensive.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0160",
+    "phrase": "create",
+    "meaning": "v. 创造",
+    "example": "Artists create beauty from ordinary materials.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0161",
+    "phrase": "creativity",
+    "meaning": "n. 创造力",
+    "example": "Creativity is essential in the modern workplace.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0162",
+    "phrase": "credit",
+    "meaning": "n./v. 信用",
+    "example": "Give credit where it is due.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0163",
+    "phrase": "crisis",
+    "meaning": "n. 危机",
+    "example": "The country is facing an economic crisis.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0164",
+    "phrase": "criteria",
+    "meaning": "n. 标准",
+    "example": "The selection criteria are clearly outlined.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0165",
+    "phrase": "crucial",
+    "meaning": "adj. 至关重要的",
+    "example": "This is a crucial decision for the company.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0166",
+    "phrase": "culture",
+    "meaning": "n. 文化",
+    "example": "Language is deeply tied to culture.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0167",
+    "phrase": "curriculum",
+    "meaning": "n. 课程",
+    "example": "The school is updating its curriculum.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0168",
+    "phrase": "curious",
+    "meaning": "adj. 好奇的",
+    "example": "Children are naturally curious about the world.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0169",
+    "phrase": "current",
+    "meaning": "adj. 当前的",
+    "example": "The current situation requires immediate action.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0170",
+    "phrase": "data",
+    "meaning": "n. 数据",
+    "example": "The data was collected from 500 participants.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0171",
+    "phrase": "debate",
+    "meaning": "n./v. 辩论",
+    "example": "The topic sparked a lively debate.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0172",
+    "phrase": "decline",
+    "meaning": "v./n. 下降",
+    "example": "Fish populations have declined sharply.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0173",
+    "phrase": "decrease",
+    "meaning": "v./n. 减少",
+    "example": "A decrease in temperature was noticeable.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0174",
+    "phrase": "defeat",
+    "meaning": "v./n. 打败",
+    "example": "The team was defeated in the final.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0175",
+    "phrase": "defend",
+    "meaning": "v. 辩护",
+    "example": "He defended his thesis successfully.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0176",
+    "phrase": "define",
+    "meaning": "v. 定义",
+    "example": "How do you define the term success?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0177",
+    "phrase": "definite",
+    "meaning": "adj. 明确的",
+    "example": "I have a definite plan for the future.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0178",
+    "phrase": "demonstrate",
+    "meaning": "v. 证明",
+    "example": "The experiment demonstrated the theory.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0179",
+    "phrase": "deny",
+    "meaning": "v. 否认",
+    "example": "He denied all the allegations.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0180",
+    "phrase": "depart",
+    "meaning": "v. 离开",
+    "example": "The train departs at nine in the morning.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0181",
+    "phrase": "depend",
+    "meaning": "v. 依靠",
+    "example": "The outcome depends on several factors.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0182",
+    "phrase": "deposit",
+    "meaning": "v./n. 存放",
+    "example": "You need to deposit a security fee.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0183",
+    "phrase": "derive",
+    "meaning": "v. 源自",
+    "example": "The word derives from Latin.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0184",
+    "phrase": "describe",
+    "meaning": "v. 描述",
+    "example": "Please describe the scene in detail.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0185",
+    "phrase": "deserve",
+    "meaning": "v. 值得",
+    "example": "She deserves a promotion for her hard work.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0186",
+    "phrase": "design",
+    "meaning": "v./n. 设计",
+    "example": "The bridge was designed by a famous architect.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0187",
+    "phrase": "desire",
+    "meaning": "n./v. 渴望",
+    "example": "He has a strong desire to succeed.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0188",
+    "phrase": "despite",
+    "meaning": "prep. 尽管",
+    "example": "Despite the rain, we continued walking.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0189",
+    "phrase": "destination",
+    "meaning": "n. 目的地",
+    "example": "Our destination is a small coastal town.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0190",
+    "phrase": "detail",
+    "meaning": "n. 细节",
+    "example": "Please include all relevant details.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0191",
+    "phrase": "detect",
+    "meaning": "v. 发现",
+    "example": "Tests can detect the virus early.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0192",
+    "phrase": "determine",
+    "meaning": "v. 决定",
+    "example": "We need to determine the cause of the problem.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0193",
+    "phrase": "develop",
+    "meaning": "v. 发展",
+    "example": "The city has developed rapidly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0194",
+    "phrase": "devote",
+    "meaning": "v. 奉献",
+    "example": "She devoted her life to teaching.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0195",
+    "phrase": "difference",
+    "meaning": "n. 差异",
+    "example": "There is a big difference between the two.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0196",
+    "phrase": "difficult",
+    "meaning": "adj. 困难的",
+    "example": "Finding parking in the city centre is difficult.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0197",
+    "phrase": "dimension",
+    "meaning": "n. 维度",
+    "example": "This adds a new dimension to the problem.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0198",
+    "phrase": "diminish",
+    "meaning": "v. 减少",
+    "example": "His influence has diminished over time.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0199",
+    "phrase": "diplomat",
+    "meaning": "n. 外交官",
+    "example": "The diplomat negotiated a peace agreement.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0200",
+    "phrase": "direct",
+    "meaning": "adj./v. 直接的",
+    "example": "The direct route takes about two hours.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0201",
+    "phrase": "disadvantage",
+    "meaning": "n. 不利条件",
+    "example": "One disadvantage of city life is cost.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0202",
+    "phrase": "disagree",
+    "meaning": "v. 不同意",
+    "example": "I respectfully disagree with your conclusion.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0203",
+    "phrase": "disappear",
+    "meaning": "v. 消失",
+    "example": "Many species have disappeared due to habitat loss.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0204",
+    "phrase": "discipline",
+    "meaning": "n. 纪律",
+    "example": "Self-discipline is key to success.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0205",
+    "phrase": "discount",
+    "meaning": "n./v. 折扣",
+    "example": "We offer a ten percent discount for students.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0206",
+    "phrase": "discuss",
+    "meaning": "v. 讨论",
+    "example": "We need to discuss the proposal.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0207",
+    "phrase": "dismiss",
+    "meaning": "v. 不予理会",
+    "example": "The claim was dismissed as unfounded.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0208",
+    "phrase": "display",
+    "meaning": "v./n. 展示",
+    "example": "The museum displays ancient artifacts.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0209",
+    "phrase": "dispose",
+    "meaning": "v. 处理",
+    "example": "Waste must be disposed of safely.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0210",
+    "phrase": "distinct",
+    "meaning": "adj. 不同的",
+    "example": "There are three distinct phases to the process.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0211",
+    "phrase": "distinguish",
+    "meaning": "v. 区分",
+    "example": "Can you distinguish between the two dialects?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0212",
+    "phrase": "distribute",
+    "meaning": "v. 分发",
+    "example": "Volunteers distributed food to the homeless.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0213",
+    "phrase": "diverse",
+    "meaning": "adj. 多样的",
+    "example": "The student body is culturally diverse.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0214",
+    "phrase": "divide",
+    "meaning": "v./n. 分开",
+    "example": "The river divides the city into two parts.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0215",
+    "phrase": "document",
+    "meaning": "n./v. 文件",
+    "example": "Please bring the required documents.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0216",
+    "phrase": "domestic",
+    "meaning": "adj. 国内的",
+    "example": "Domestic violence is a serious issue.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0217",
+    "phrase": "dominant",
+    "meaning": "adj. 占主导的",
+    "example": "English is the dominant global language.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0218",
+    "phrase": "draft",
+    "meaning": "n./v. 草稿",
+    "example": "The lawyer prepared a draft contract.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0219",
+    "phrase": "dramatic",
+    "meaning": "adj. 戏剧性的",
+    "example": "There was a dramatic improvement in scores.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0220",
+    "phrase": "duration",
+    "meaning": "n. 持续时间",
+    "example": "The duration of the course is twelve weeks.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0221",
+    "phrase": "dynamic",
+    "meaning": "adj. 动态的",
+    "example": "The economy is increasingly dynamic.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0222",
+    "phrase": "economy",
+    "meaning": "n. 经济",
+    "example": "The global economy is recovering slowly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0223",
+    "phrase": "edit",
+    "meaning": "v. 编辑",
+    "example": "Please edit the document before submitting.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0224",
+    "phrase": "educate",
+    "meaning": "v. 教育",
+    "example": "Schools should educate the whole child.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0225",
+    "phrase": "elaborate",
+    "meaning": "adj./v. 详尽的",
+    "example": "Can you elaborate on that point?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0226",
+    "phrase": "elect",
+    "meaning": "v. 选举",
+    "example": "They elected a new president last month.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0227",
+    "phrase": "element",
+    "meaning": "n. 元素",
+    "example": "Trust is an essential element of friendship.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0228",
+    "phrase": "eliminate",
+    "meaning": "v. 消除",
+    "example": "We must eliminate unnecessary expenses.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0229",
+    "phrase": "embrace",
+    "meaning": "v. 拥抱",
+    "example": "We should embrace new technologies.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0230",
+    "phrase": "emerge",
+    "meaning": "v. 出现",
+    "example": "New evidence emerged during the trial.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0231",
+    "phrase": "emission",
+    "meaning": "n. 排放",
+    "example": "Carbon emissions must be reduced.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0232",
+    "phrase": "emotion",
+    "meaning": "n. 情感",
+    "example": "Music can evoke strong emotions.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0233",
+    "phrase": "emphasis",
+    "meaning": "n. 强调",
+    "example": "There is too much emphasis on testing.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0234",
+    "phrase": "employ",
+    "meaning": "v. 雇佣",
+    "example": "The company employs over five hundred people.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0235",
+    "phrase": "enable",
+    "meaning": "v. 使能够",
+    "example": "Technology enables remote working.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0236",
+    "phrase": "encounter",
+    "meaning": "v./n. 遇到",
+    "example": "I encountered an old friend in the street.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0237",
+    "phrase": "encourage",
+    "meaning": "v. 鼓励",
+    "example": "Teachers should encourage independent thinking.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0238",
+    "phrase": "endure",
+    "meaning": "v. 忍受",
+    "example": "She endured years of hardship with grace.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0239",
+    "phrase": "enforce",
+    "meaning": "v. 实施",
+    "example": "The law is strictly enforced in this country.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0240",
+    "phrase": "engage",
+    "meaning": "v. 参与",
+    "example": "The speaker engaged the audience throughout.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0241",
+    "phrase": "enhance",
+    "meaning": "v. 增强",
+    "example": "Exercise enhances both physical and mental health.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0242",
+    "phrase": "enormous",
+    "meaning": "adj. 巨大的",
+    "example": "The project requires an enormous amount of work.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0243",
+    "phrase": "ensure",
+    "meaning": "v. 确保",
+    "example": "Please ensure that all doors are locked.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0244",
+    "phrase": "enterprise",
+    "meaning": "n. 企业",
+    "example": "Small enterprises drive innovation.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0245",
+    "phrase": "entire",
+    "meaning": "adj. 整个的",
+    "example": "The entire population was affected.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0246",
+    "phrase": "entitle",
+    "meaning": "v. 使有资格",
+    "example": "Citizens are entitled to free healthcare.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0247",
+    "phrase": "environment",
+    "meaning": "n. 环境",
+    "example": "We must protect the natural environment.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0248",
+    "phrase": "equivalent",
+    "meaning": "adj./n. 等价的",
+    "example": "A degree is equivalent to three years of training.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0249",
+    "phrase": "error",
+    "meaning": "n. 错误",
+    "example": "The report contained several factual errors.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0250",
+    "phrase": "escape",
+    "meaning": "v./n. 逃跑",
+    "example": "He escaped from the burning building.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0251",
+    "phrase": "especially",
+    "meaning": "adv. 尤其",
+    "example": "I love Italian food, especially pasta.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0252",
+    "phrase": "essay",
+    "meaning": "n. 文章",
+    "example": "She wrote an excellent essay on climate change.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0253",
+    "phrase": "essential",
+    "meaning": "adj. 必要的",
+    "example": "Water is essential for all living things.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0254",
+    "phrase": "establish",
+    "meaning": "v. 建立",
+    "example": "The company was established in 1998.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0255",
+    "phrase": "estimate",
+    "meaning": "v./n. 估计",
+    "example": "Experts estimate the cost at five million.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0256",
+    "phrase": "ethical",
+    "meaning": "adj. 伦理的",
+    "example": "We need to consider the ethical implications.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0257",
+    "phrase": "evaluate",
+    "meaning": "v. 评估",
+    "example": "Teachers evaluate students through exams.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0258",
+    "phrase": "eventually",
+    "meaning": "adv. 最终",
+    "example": "Eventually, she decided to change careers.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0259",
+    "phrase": "evidence",
+    "meaning": "n. 证据",
+    "example": "There is no evidence to support this claim.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0260",
+    "phrase": "evolution",
+    "meaning": "n. 进化",
+    "example": "The theory of evolution is widely accepted.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0261",
+    "phrase": "exaggerate",
+    "meaning": "v. 夸大",
+    "example": "He tends to exaggerate his achievements.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0262",
+    "phrase": "examine",
+    "meaning": "v. 检查",
+    "example": "We need to examine the evidence carefully.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0263",
+    "phrase": "example",
+    "meaning": "n. 例子",
+    "example": "Let me give you an example.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0264",
+    "phrase": "exceed",
+    "meaning": "v. 超过",
+    "example": "The cost exceeded our budget.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0265",
+    "phrase": "exchange",
+    "meaning": "v./n. 交换",
+    "example": "The programme promotes cultural exchange.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0266",
+    "phrase": "exclude",
+    "meaning": "v. 排除",
+    "example": "The price excludes tax.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0267",
+    "phrase": "execute",
+    "meaning": "v. 执行",
+    "example": "The plan was executed flawlessly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0268",
+    "phrase": "exhibit",
+    "meaning": "v./n. 展览",
+    "example": "The gallery exhibits modern art.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0269",
+    "phrase": "exist",
+    "meaning": "v. 存在",
+    "example": "Do aliens really exist?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0270",
+    "phrase": "expand",
+    "meaning": "v. 扩大",
+    "example": "The company plans to expand into Asia.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0271",
+    "phrase": "expect",
+    "meaning": "v. 期望",
+    "example": "We expect the meeting to last two hours.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0272",
+    "phrase": "expense",
+    "meaning": "n. 花费",
+    "example": "The trip was at the companys expense.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0273",
+    "phrase": "expert",
+    "meaning": "n./adj. 专家",
+    "example": "She is an expert in renewable energy.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0274",
+    "phrase": "explain",
+    "meaning": "v. 解释",
+    "example": "Can you explain how it works?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0275",
+    "phrase": "explicit",
+    "meaning": "adj. 明确的",
+    "example": "The instructions must be explicit.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0276",
+    "phrase": "explore",
+    "meaning": "v. 探索",
+    "example": "Scientists are exploring new treatments.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0277",
+    "phrase": "expose",
+    "meaning": "v. 暴露",
+    "example": "The report exposed corruption in government.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0278",
+    "phrase": "extend",
+    "meaning": "v. 延伸",
+    "example": "The deadline was extended by one week.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0279",
+    "phrase": "extent",
+    "meaning": "n. 程度",
+    "example": "To what extent do you agree?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0280",
+    "phrase": "external",
+    "meaning": "adj. 外部的",
+    "example": "External factors can affect performance.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0281",
+    "phrase": "extract",
+    "meaning": "v. 提取",
+    "example": "Oil is extracted from beneath the seabed.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0282",
+    "phrase": "facilitate",
+    "meaning": "v. 促进",
+    "example": "Technology facilitates remote communication.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0283",
+    "phrase": "factor",
+    "meaning": "n. 因素",
+    "example": "Price is an important factor in the decision.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0284",
+    "phrase": "failure",
+    "meaning": "n. 失败",
+    "example": "The experiment was a complete failure.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0285",
+    "phrase": "familiar",
+    "meaning": "adj. 熟悉的",
+    "example": "The area is familiar to me.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0286",
+    "phrase": "fashion",
+    "meaning": "n. 时尚",
+    "example": "Fashion changes constantly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0287",
+    "phrase": "feasible",
+    "meaning": "adj. 可行的",
+    "example": "Is this plan financially feasible?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0288",
+    "phrase": "feature",
+    "meaning": "n./v. 特征",
+    "example": "The phone has many useful features.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0289",
+    "phrase": "feedback",
+    "meaning": "n. 反馈",
+    "example": "I appreciate your feedback on my work.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0290",
+    "phrase": "final",
+    "meaning": "adj. 最终的",
+    "example": "The final decision will be made tomorrow.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0291",
+    "phrase": "finance",
+    "meaning": "n./v. 金融",
+    "example": "The project was financed by donations.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0292",
+    "phrase": "finite",
+    "meaning": "adj. 有限的",
+    "example": "Earth has finite resources.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0293",
+    "phrase": "flexible",
+    "meaning": "adj. 灵活的",
+    "example": "We offer flexible working hours.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0294",
+    "phrase": "focus",
+    "meaning": "v./n. 集中",
+    "example": "You need to focus on your weaknesses.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0295",
+    "phrase": "foreign",
+    "meaning": "adj. 外国的",
+    "example": "He speaks three foreign languages.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0296",
+    "phrase": "formula",
+    "meaning": "n. 公式",
+    "example": "The formula for success is hard work.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0297",
+    "phrase": "foundation",
+    "meaning": "n. 基础",
+    "example": "The building has a strong foundation.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0298",
+    "phrase": "framework",
+    "meaning": "n. 框架",
+    "example": "A legal framework was established.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0299",
+    "phrase": "frequency",
+    "meaning": "n. 频率",
+    "example": "The frequency of buses has increased.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0300",
+    "phrase": "fulfil",
+    "meaning": "v. 实现",
+    "example": "She fulfilled her ambition to study abroad.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0301",
+    "phrase": "function",
+    "meaning": "n./v. 功能",
+    "example": "The heart has a vital function.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0302",
+    "phrase": "fund",
+    "meaning": "n./v. 资金",
+    "example": "The project was funded by donations.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0303",
+    "phrase": "fundamental",
+    "meaning": "adj. 基本的",
+    "example": "Reading is a fundamental skill.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0304",
+    "phrase": "furthermore",
+    "meaning": "adv. 此外",
+    "example": "Furthermore, the study found no correlation.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0305",
+    "phrase": "generate",
+    "meaning": "v. 产生",
+    "example": "The solar panels generate electricity.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0306",
+    "phrase": "generation",
+    "meaning": "n. 一代",
+    "example": "This policy affects the next generation.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0307",
+    "phrase": "genuine",
+    "meaning": "adj. 真实的",
+    "example": "She showed genuine concern for others.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0308",
+    "phrase": "global",
+    "meaning": "adj. 全球的",
+    "example": "Climate change is a global issue.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0309",
+    "phrase": "goal",
+    "meaning": "n. 目标",
+    "example": "Her main goal is to improve her English.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0310",
+    "phrase": "govern",
+    "meaning": "v. 统治",
+    "example": "The country is governed by a democratic system.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0311",
+    "phrase": "gradual",
+    "meaning": "adj. 逐渐的",
+    "example": "There was a gradual improvement in her health.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0312",
+    "phrase": "grant",
+    "meaning": "v./n. 授予",
+    "example": "The university granted her a scholarship.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0313",
+    "phrase": "guarantee",
+    "meaning": "v./n. 保证",
+    "example": "I cannot guarantee the result.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0314",
+    "phrase": "habitat",
+    "meaning": "n. 栖息地",
+    "example": "Deforestation destroys wildlife habitats.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0315",
+    "phrase": "hence",
+    "meaning": "adv. 因此",
+    "example": "The project was delayed, hence the budget increase.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0316",
+    "phrase": "heritage",
+    "meaning": "n. 遗产",
+    "example": "The castle is a UNESCO World Heritage Site.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0317",
+    "phrase": "highlight",
+    "meaning": "v./n. 强调",
+    "example": "The report highlights several key issues.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0318",
+    "phrase": "hypothesis",
+    "meaning": "n. 假设",
+    "example": "The researchers tested their hypothesis.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0319",
+    "phrase": "identical",
+    "meaning": "adj. 完全相同的",
+    "example": "The twins wore identical outfits.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0320",
+    "phrase": "identify",
+    "meaning": "v. 识别",
+    "example": "Police have identified the suspect.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0321",
+    "phrase": "ignore",
+    "meaning": "v. 忽视",
+    "example": "You cannot ignore the facts.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0322",
+    "phrase": "illustrate",
+    "meaning": "v. 说明",
+    "example": "Let me illustrate with an example.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0323",
+    "phrase": "image",
+    "meaning": "n. 图像",
+    "example": "The company has a positive brand image.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0324",
+    "phrase": "immigrant",
+    "meaning": "n. 移民",
+    "example": "The country has a long history of immigration.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0325",
+    "phrase": "impact",
+    "meaning": "n./v. 影响",
+    "example": "The policy had a significant impact.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0326",
+    "phrase": "implement",
+    "meaning": "v. 实施",
+    "example": "The government implemented new regulations.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0327",
+    "phrase": "implication",
+    "meaning": "n. 含义",
+    "example": "What are the implications of this decision?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0328",
+    "phrase": "implicit",
+    "meaning": "adj. 含蓄的",
+    "example": "There was an implicit agreement between them.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0329",
+    "phrase": "imply",
+    "meaning": "v. 暗示",
+    "example": "What are you trying to imply?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0330",
+    "phrase": "import",
+    "meaning": "v./n. 进口",
+    "example": "The country imports oil from the Middle East.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0331",
+    "phrase": "impose",
+    "meaning": "v. 强加",
+    "example": "The government imposed new taxes.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0332",
+    "phrase": "incentive",
+    "meaning": "n. 激励",
+    "example": "Financial incentives encourage investment.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0333",
+    "phrase": "incident",
+    "meaning": "n. 事件",
+    "example": "The incident was reported to the police.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0334",
+    "phrase": "income",
+    "meaning": "n. 收入",
+    "example": "Average household income has risen.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0335",
+    "phrase": "incorporate",
+    "meaning": "v. 合并",
+    "example": "The plan incorporates feedback from employees.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0336",
+    "phrase": "increase",
+    "meaning": "v./n. 增加",
+    "example": "Prices increased by five percent.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0337",
+    "phrase": "indicate",
+    "meaning": "v. 表明",
+    "example": "The data indicates a clear trend.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0338",
+    "phrase": "individual",
+    "meaning": "adj./n. 个人的",
+    "example": "Each individual has unique talents.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0339",
+    "phrase": "industry",
+    "meaning": "n. 行业",
+    "example": "The tech industry is growing rapidly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0340",
+    "phrase": "inevitable",
+    "meaning": "adj. 不可避免的",
+    "example": "Change is inevitable in any organisation.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0341",
+    "phrase": "infant",
+    "meaning": "n. 婴儿",
+    "example": "Infants rely entirely on their caregivers.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0342",
+    "phrase": "infect",
+    "meaning": "v. 感染",
+    "example": "The virus can infect humans and animals.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0343",
+    "phrase": "infer",
+    "meaning": "v. 推断",
+    "example": "From the evidence, we can infer that...",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0344",
+    "phrase": "influence",
+    "meaning": "n./v. 影响",
+    "example": "Music has a strong influence on mood.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0345",
+    "phrase": "ingredient",
+    "meaning": "n. 成分",
+    "example": "Fresh ingredients make a better meal.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0346",
+    "phrase": "initial",
+    "meaning": "adj. 最初的",
+    "example": "The initial response was very positive.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0347",
+    "phrase": "initiative",
+    "meaning": "n. 主动性",
+    "example": "She showed great initiative in solving the problem.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0348",
+    "phrase": "innovation",
+    "meaning": "n. 创新",
+    "example": "Technological innovation drives economic growth.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0349",
+    "phrase": "input",
+    "meaning": "n. 输入",
+    "example": "We welcome your input on this matter.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0350",
+    "phrase": "inquiry",
+    "meaning": "n. 调查",
+    "example": "The inquiry revealed serious safety violations.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0351",
+    "phrase": "insight",
+    "meaning": "n. 洞察力",
+    "example": "Her book provides valuable insight into the issue.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0352",
+    "phrase": "inspect",
+    "meaning": "v. 检查",
+    "example": "The building was inspected for safety.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0353",
+    "phrase": "inspire",
+    "meaning": "v. 激励",
+    "example": "Her story inspired many young scientists.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0354",
+    "phrase": "instance",
+    "meaning": "n. 例子",
+    "example": "In this instance, the rule does not apply.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0355",
+    "phrase": "institute",
+    "meaning": "n. 研究所",
+    "example": "The research institute published its findings.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0356",
+    "phrase": "instruct",
+    "meaning": "v. 指导",
+    "example": "The teacher instructed the class to be quiet.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0357",
+    "phrase": "insufficient",
+    "meaning": "adj. 不足的",
+    "example": "The evidence was insufficient to convict.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0358",
+    "phrase": "integrate",
+    "meaning": "v. 整合",
+    "example": "Schools should integrate technology into teaching.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0359",
+    "phrase": "intelligence",
+    "meaning": "n. 智力",
+    "example": "Artificial intelligence is advancing rapidly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0360",
+    "phrase": "intend",
+    "meaning": "v. 打算",
+    "example": "I intend to apply for the scholarship.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0361",
+    "phrase": "interact",
+    "meaning": "v. 互动",
+    "example": "Students interact with teachers in small classes.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0362",
+    "phrase": "intermediate",
+    "meaning": "adj. 中级的",
+    "example": "This course is for intermediate learners.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0363",
+    "phrase": "internal",
+    "meaning": "adj. 内部的",
+    "example": "The company held an internal review.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0364",
+    "phrase": "interpret",
+    "meaning": "v. 解释",
+    "example": "How do you interpret this poem?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0365",
+    "phrase": "interval",
+    "meaning": "n. 间隔",
+    "example": "There is a fifteen-minute interval between acts.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0366",
+    "phrase": "interview",
+    "meaning": "n./v. 面试",
+    "example": "He was interviewed for the job.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0367",
+    "phrase": "introduce",
+    "meaning": "v. 介绍",
+    "example": "The company introduced a new product.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0368",
+    "phrase": "invest",
+    "meaning": "v. 投资",
+    "example": "You should invest in your education.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0369",
+    "phrase": "investigate",
+    "meaning": "v. 调查",
+    "example": "Police are investigating the incident.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0370",
+    "phrase": "involve",
+    "meaning": "v. 涉及",
+    "example": "The job involves working with children.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0371",
+    "phrase": "isolate",
+    "meaning": "v. 隔离",
+    "example": "The patient was isolated to prevent infection.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0372",
+    "phrase": "issue",
+    "meaning": "n./v. 问题",
+    "example": "The issue of climate change is urgent.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0373",
+    "phrase": "jeopardise",
+    "meaning": "v. 危及",
+    "example": "The scandal jeopardised his career.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0374",
+    "phrase": "joint",
+    "meaning": "adj. 联合的",
+    "example": "The two companies made a joint statement.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0375",
+    "phrase": "journal",
+    "meaning": "n. 期刊",
+    "example": "She published her research in a journal.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0376",
+    "phrase": "justify",
+    "meaning": "v. 证明合理",
+    "example": "Can you justify the expense?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0377",
+    "phrase": "label",
+    "meaning": "n./v. 标签",
+    "example": "Always read the label before using chemicals.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0378",
+    "phrase": "labour",
+    "meaning": "n. 劳动",
+    "example": "Manual labour is physically demanding.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0379",
+    "phrase": "landscape",
+    "meaning": "n. 风景",
+    "example": "The landscape of Iceland is stunning.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0380",
+    "phrase": "largely",
+    "meaning": "adv. 主要地",
+    "example": "Success depends largely on effort.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0381",
+    "phrase": "launch",
+    "meaning": "v./n. 发起",
+    "example": "The company launched a new app.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0382",
+    "phrase": "layer",
+    "meaning": "n. 层",
+    "example": "The Earth has several atmospheric layers.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0383",
+    "phrase": "lecture",
+    "meaning": "n. 讲座",
+    "example": "The lecture was very informative.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0384",
+    "phrase": "legal",
+    "meaning": "adj. 合法的",
+    "example": "You need legal advice for this matter.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0385",
+    "phrase": "legislation",
+    "meaning": "n. 立法",
+    "example": "New legislation was passed last month.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0386",
+    "phrase": "leisure",
+    "meaning": "n. 空闲",
+    "example": "People have more leisure time nowadays.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0387",
+    "phrase": "liberal",
+    "meaning": "adj. 自由主义的",
+    "example": "She has liberal views on education.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0388",
+    "phrase": "license",
+    "meaning": "n./v. 许可证",
+    "example": "You need a license to drive.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0389",
+    "phrase": "likely",
+    "meaning": "adj. 可能的",
+    "example": "It is likely to rain this afternoon.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0390",
+    "phrase": "limitation",
+    "meaning": "n. 局限性",
+    "example": "The study has several limitations.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0391",
+    "phrase": "link",
+    "meaning": "n./v. 连接",
+    "example": "There is a strong link between diet and health.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0392",
+    "phrase": "locate",
+    "meaning": "v. 定位",
+    "example": "The fault was located near the engine.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0393",
+    "phrase": "logic",
+    "meaning": "n. 逻辑",
+    "example": "His argument is based on flawed logic.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0394",
+    "phrase": "loyal",
+    "meaning": "adj. 忠诚的",
+    "example": "She has been a loyal customer for years.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0395",
+    "phrase": "magnificent",
+    "meaning": "adj. 壮丽的",
+    "example": "The view from the top was magnificent.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0396",
+    "phrase": "maintain",
+    "meaning": "v. 维持",
+    "example": "You need to maintain the equipment regularly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0397",
+    "phrase": "major",
+    "meaning": "adj. 主要的",
+    "example": "Smoking is a major cause of cancer.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0398",
+    "phrase": "manner",
+    "meaning": "n. 方式",
+    "example": "He has a rude manner.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0399",
+    "phrase": "manufacture",
+    "meaning": "v. 制造",
+    "example": "The company manufactures car parts.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0400",
+    "phrase": "margin",
+    "meaning": "n. 边缘",
+    "example": "The margin of error is three percent.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0401",
+    "phrase": "mature",
+    "meaning": "adj. 成熟的",
+    "example": "He is a mature and responsible adult.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0402",
+    "phrase": "maximum",
+    "meaning": "adj./n. 最大",
+    "example": "The maximum speed limit is seventy mph.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0403",
+    "phrase": "mechanism",
+    "meaning": "n. 机制",
+    "example": "The body has a defence mechanism.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0404",
+    "phrase": "media",
+    "meaning": "n. 媒体",
+    "example": "Social media has changed communication.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0405",
+    "phrase": "mental",
+    "meaning": "adj. 精神的",
+    "example": "Mental health is as important as physical health.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0406",
+    "phrase": "merchant",
+    "meaning": "n. 商人",
+    "example": "The merchant traded spices from India.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0407",
+    "phrase": "method",
+    "meaning": "n. 方法",
+    "example": "This is an effective teaching method.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0408",
+    "phrase": "mild",
+    "meaning": "adj. 温和的",
+    "example": "We had a mild winter this year.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0409",
+    "phrase": "minimum",
+    "meaning": "adj./n. 最小",
+    "example": "The minimum age to vote is eighteen.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0410",
+    "phrase": "minor",
+    "meaning": "adj. 次要的",
+    "example": "She suffered only minor injuries.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0411",
+    "phrase": "mislead",
+    "meaning": "v. 误导",
+    "example": "The advertisement misled consumers.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0412",
+    "phrase": "moderate",
+    "meaning": "adj. 适度的",
+    "example": "The climate is mild and moderate.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0413",
+    "phrase": "modify",
+    "meaning": "v. 修改",
+    "example": "The plan was modified after feedback.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0414",
+    "phrase": "monitor",
+    "meaning": "v./n. 监控",
+    "example": "Doctors monitored his heart rate.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0415",
+    "phrase": "moral",
+    "meaning": "adj./n. 道德的",
+    "example": "The story has a clear moral.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0416",
+    "phrase": "movement",
+    "meaning": "n. 运动",
+    "example": "The civil rights movement changed society.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0417",
+    "phrase": "multiple",
+    "meaning": "adj. 多个的",
+    "example": "The accident involved multiple vehicles.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0418",
+    "phrase": "municipal",
+    "meaning": "adj. 市政的",
+    "example": "The municipal government provides services.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0419",
+    "phrase": "mutual",
+    "meaning": "adj. 相互的",
+    "example": "They have mutual respect for each other.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0420",
+    "phrase": "myth",
+    "meaning": "n. 神话",
+    "example": "It is a myth that lightning never strikes twice.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0421",
+    "phrase": "narrow",
+    "meaning": "adj. 窄的",
+    "example": "The road was too narrow for two cars.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0422",
+    "phrase": "negative",
+    "meaning": "adj. 消极的",
+    "example": "Negative thinking can harm your health.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0423",
+    "phrase": "negotiate",
+    "meaning": "v. 谈判",
+    "example": "They negotiated a new contract.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0424",
+    "phrase": "nevertheless",
+    "meaning": "adv. 然而",
+    "example": "The task was difficult. Nevertheless, she succeeded.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0425",
+    "phrase": "neutral",
+    "meaning": "adj. 中立的",
+    "example": "Switzerland remained neutral during the war.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0426",
+    "phrase": "normal",
+    "meaning": "adj. 正常的",
+    "example": "It is normal to feel nervous before a test.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0427",
+    "phrase": "notion",
+    "meaning": "n. 概念",
+    "example": "The notion that money brings happiness is widespread.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0428",
+    "phrase": "novel",
+    "meaning": "adj./n. 新颖的",
+    "example": "She has a novel approach to the problem.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0429",
+    "phrase": "nuclear",
+    "meaning": "adj. 核的",
+    "example": "Nuclear energy is a controversial topic.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0430",
+    "phrase": "numerous",
+    "meaning": "adj. 众多的",
+    "example": "There are numerous benefits to regular exercise.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0431",
+    "phrase": "obtain",
+    "meaning": "v. 获得",
+    "example": "You can obtain a copy from the library.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0432",
+    "phrase": "obvious",
+    "meaning": "adj. 明显的",
+    "example": "The answer should be obvious.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0433",
+    "phrase": "occupy",
+    "meaning": "v. 占据",
+    "example": "The army occupied the capital city.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0434",
+    "phrase": "occur",
+    "meaning": "v. 发生",
+    "example": "The accident occurred at midnight.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0435",
+    "phrase": "odd",
+    "meaning": "adj. 奇怪的",
+    "example": "He has an odd sense of humour.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0436",
+    "phrase": "offend",
+    "meaning": "v. 冒犯",
+    "example": "His remark offended many people.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0437",
+    "phrase": "official",
+    "meaning": "adj./n. 官方的",
+    "example": "The official statement was released yesterday.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0438",
+    "phrase": "omit",
+    "meaning": "v. 省略",
+    "example": "You omitted an important detail.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0439",
+    "phrase": "operate",
+    "meaning": "v. 操作",
+    "example": "The machine operates on solar power.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0440",
+    "phrase": "opportunity",
+    "meaning": "n. 机会",
+    "example": "This is a great opportunity to learn.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0441",
+    "phrase": "oppose",
+    "meaning": "v. 反对",
+    "example": "Many oppose the new development plan.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0442",
+    "phrase": "option",
+    "meaning": "n. 选项",
+    "example": "You have two options: pay now or later.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0443",
+    "phrase": "orient",
+    "meaning": "v. 使适应",
+    "example": "The course helps orient new students.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0444",
+    "phrase": "origin",
+    "meaning": "n. 起源",
+    "example": "The origin of the tradition is unclear.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0445",
+    "phrase": "outcome",
+    "meaning": "n. 结果",
+    "example": "The outcome of the vote was unexpected.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0446",
+    "phrase": "output",
+    "meaning": "n. 产量",
+    "example": "Factory output increased by twenty percent.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0447",
+    "phrase": "overcome",
+    "meaning": "v. 克服",
+    "example": "She overcame many obstacles to succeed.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0448",
+    "phrase": "overlook",
+    "meaning": "v. 忽视",
+    "example": "Do not overlook the small details.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0449",
+    "phrase": "pace",
+    "meaning": "n. 速度",
+    "example": "The pace of change is accelerating.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0450",
+    "phrase": "parallel",
+    "meaning": "adj./n. 平行的",
+    "example": "There are interesting parallels between the two cases.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0451",
+    "phrase": "participate",
+    "meaning": "v. 参加",
+    "example": "Everyone is encouraged to participate.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0452",
+    "phrase": "particular",
+    "meaning": "adj. 特定的",
+    "example": "I have a particular interest in history.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0453",
+    "phrase": "partly",
+    "meaning": "adv. 部分地",
+    "example": "The decision was partly influenced by cost.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0454",
+    "phrase": "pattern",
+    "meaning": "n. 模式",
+    "example": "There is a clear pattern in the data.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0455",
+    "phrase": "payment",
+    "meaning": "n. 付款",
+    "example": "The payment is due at the end of the month.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0456",
+    "phrase": "penalty",
+    "meaning": "n. 惩罚",
+    "example": "The penalty for late submission is ten percent.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0457",
+    "phrase": "perceive",
+    "meaning": "v. 感知",
+    "example": "Perception of time changes as we age.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0458",
+    "phrase": "percent",
+    "meaning": "n. 百分比",
+    "example": "Sixty percent of students passed.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0459",
+    "phrase": "perform",
+    "meaning": "v. 表演",
+    "example": "She will perform at the concert tonight.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0460",
+    "phrase": "period",
+    "meaning": "n. 时期",
+    "example": "The Renaissance was a period of great change.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0461",
+    "phrase": "permanent",
+    "meaning": "adj. 永久的",
+    "example": "She found a permanent position at the university.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0462",
+    "phrase": "persist",
+    "meaning": "v. 坚持",
+    "example": "If the symptoms persist, see a doctor.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0463",
+    "phrase": "perspective",
+    "meaning": "n. 视角",
+    "example": "This issue needs to be viewed from multiple perspectives.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0464",
+    "phrase": "phase",
+    "meaning": "n. 阶段",
+    "example": "The project is entering its final phase.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0465",
+    "phrase": "phenomenon",
+    "meaning": "n. 现象",
+    "example": "Globalisation is a complex phenomenon.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0466",
+    "phrase": "philosophy",
+    "meaning": "n. 哲学",
+    "example": "Her teaching philosophy focuses on creativity.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0467",
+    "phrase": "physical",
+    "meaning": "adj. 身体的",
+    "example": "Physical exercise improves mental health.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0468",
+    "phrase": "plausible",
+    "meaning": "adj. 似乎合理的",
+    "example": "His explanation sounds plausible.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0469",
+    "phrase": "policy",
+    "meaning": "n. 政策",
+    "example": "The government announced a new immigration policy.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0470",
+    "phrase": "poll",
+    "meaning": "n. 民意调查",
+    "example": "The poll shows a shift in public opinion.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0471",
+    "phrase": "population",
+    "meaning": "n. 人口",
+    "example": "The population of Tokyo is over thirty million.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0472",
+    "phrase": "pose",
+    "meaning": "v. 构成",
+    "example": "This change poses a challenge for businesses.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0473",
+    "phrase": "positive",
+    "meaning": "adj. 积极的",
+    "example": "She has a positive attitude to life.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0474",
+    "phrase": "potential",
+    "meaning": "adj./n. 潜在的",
+    "example": "The project has great potential.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0475",
+    "phrase": "poverty",
+    "meaning": "n. 贫穷",
+    "example": "Poverty remains a global challenge.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0476",
+    "phrase": "practical",
+    "meaning": "adj. 实际的",
+    "example": "We need a practical solution to this problem.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0477",
+    "phrase": "precede",
+    "meaning": "v. 先于",
+    "example": "Dinner was preceded by drinks and conversation.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0478",
+    "phrase": "precise",
+    "meaning": "adj. 精确的",
+    "example": "We need precise measurements for this experiment.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0479",
+    "phrase": "predict",
+    "meaning": "v. 预测",
+    "example": "Experts predict a rise in temperatures.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0480",
+    "phrase": "prefer",
+    "meaning": "v. 更喜欢",
+    "example": "I prefer tea to coffee.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0481",
+    "phrase": "preliminary",
+    "meaning": "adj. 初步的",
+    "example": "The results are preliminary and need further study.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0482",
+    "phrase": "preserve",
+    "meaning": "v. 保护",
+    "example": "We must preserve the natural environment.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0483",
+    "phrase": "previous",
+    "meaning": "adj. 先前的",
+    "example": "As mentioned in the previous paragraph...",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0484",
+    "phrase": "primarily",
+    "meaning": "adv. 主要地",
+    "example": "The issue is primarily one of cost.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0485",
+    "phrase": "primary",
+    "meaning": "adj. 主要的",
+    "example": "The primary cause of the problem is unclear.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0486",
+    "phrase": "priority",
+    "meaning": "n. 优先",
+    "example": "Education should be a national priority.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0487",
+    "phrase": "proceed",
+    "meaning": "v. 继续",
+    "example": "Please proceed to the next question.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0488",
+    "phrase": "process",
+    "meaning": "n./v. 过程",
+    "example": "The application process takes two weeks.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0489",
+    "phrase": "produce",
+    "meaning": "v. 生产",
+    "example": "The factory produces ten thousand units daily.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0490",
+    "phrase": "profound",
+    "meaning": "adj. 深刻的",
+    "example": "The book had a profound effect on me.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0491",
+    "phrase": "prohibit",
+    "meaning": "v. 禁止",
+    "example": "Smoking is prohibited in this building.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0492",
+    "phrase": "project",
+    "meaning": "n. 项目",
+    "example": "The project will take two years to complete.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0493",
+    "phrase": "promote",
+    "meaning": "v. 促进",
+    "example": "Exercise promotes good health.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0494",
+    "phrase": "proportion",
+    "meaning": "n. 比例",
+    "example": "A large proportion of the budget goes to education.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0495",
+    "phrase": "prospect",
+    "meaning": "n. 前景",
+    "example": "The job prospects for graduates are improving.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0496",
+    "phrase": "protect",
+    "meaning": "v. 保护",
+    "example": "Laws protect endangered species.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0497",
+    "phrase": "protocol",
+    "meaning": "n. 协议",
+    "example": "The treaty established a new protocol.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0498",
+    "phrase": "provide",
+    "meaning": "v. 提供",
+    "example": "The course provides students with practical skills.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0499",
+    "phrase": "psychology",
+    "meaning": "n. 心理学",
+    "example": "She studied psychology at university.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0500",
+    "phrase": "publication",
+    "meaning": "n. 出版",
+    "example": "The publication of the report was delayed.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0501",
+    "phrase": "purchase",
+    "meaning": "v./n. 购买",
+    "example": "You can purchase tickets online.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0502",
+    "phrase": "pursue",
+    "meaning": "v. 追求",
+    "example": "She decided to pursue a career in medicine.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0503",
+    "phrase": "qualification",
+    "meaning": "n. 资格",
+    "example": "You need a degree qualification for this role.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0504",
+    "phrase": "radical",
+    "meaning": "adj. 激进的",
+    "example": "The proposal represents a radical change.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0505",
+    "phrase": "random",
+    "meaning": "adj. 随机的",
+    "example": "The participants were selected at random.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0506",
+    "phrase": "range",
+    "meaning": "n./v. 范围",
+    "example": "Prices range from ten to fifty pounds.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0507",
+    "phrase": "rapid",
+    "meaning": "adj. 迅速的",
+    "example": "The city experienced rapid growth.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0508",
+    "phrase": "rare",
+    "meaning": "adj. 稀有的",
+    "example": "Giant pandas are a rare species.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0509",
+    "phrase": "rational",
+    "meaning": "adj. 理性的",
+    "example": "We need a rational approach to this problem.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0510",
+    "phrase": "react",
+    "meaning": "v. 反应",
+    "example": "The chemical reacts with water.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0511",
+    "phrase": "realistic",
+    "meaning": "adj. 现实的",
+    "example": "Her goals are ambitious but realistic.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0512",
+    "phrase": "reasonable",
+    "meaning": "adj. 合理的",
+    "example": "Can you give a reasonable explanation?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0513",
+    "phrase": "recall",
+    "meaning": "v. 回忆",
+    "example": "I cannot recall his name.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0514",
+    "phrase": "recent",
+    "meaning": "adj. 最近的",
+    "example": "In recent years, temperatures have risen.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0515",
+    "phrase": "recognise",
+    "meaning": "v. 认出",
+    "example": "She was recognised for her contributions.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0516",
+    "phrase": "recommend",
+    "meaning": "v. 推荐",
+    "example": "I recommend reading this book.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0517",
+    "phrase": "recover",
+    "meaning": "v. 恢复",
+    "example": "The economy is slowly recovering.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0518",
+    "phrase": "reduce",
+    "meaning": "v. 减少",
+    "example": "We need to reduce our carbon footprint.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0519",
+    "phrase": "refer",
+    "meaning": "v. 参考",
+    "example": "The report refers to several studies.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0520",
+    "phrase": "reflect",
+    "meaning": "v. 反映",
+    "example": "The data reflects a growing trend.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0521",
+    "phrase": "reform",
+    "meaning": "n./v. 改革",
+    "example": "Education reform is long overdue.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0522",
+    "phrase": "refuse",
+    "meaning": "v. 拒绝",
+    "example": "He refused to answer the question.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0523",
+    "phrase": "regard",
+    "meaning": "v./n. 认为",
+    "example": "I regard her as a mentor.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0524",
+    "phrase": "region",
+    "meaning": "n. 地区",
+    "example": "The region has a diverse economy.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0525",
+    "phrase": "register",
+    "meaning": "v./n. 注册",
+    "example": "Please register online before the event.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0526",
+    "phrase": "regulate",
+    "meaning": "v. 监管",
+    "example": "The government regulates air quality standards.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0527",
+    "phrase": "reinforce",
+    "meaning": "v. 加强",
+    "example": "This evidence reinforces our argument.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0528",
+    "phrase": "reject",
+    "meaning": "v. 拒绝",
+    "example": "The proposal was rejected by the committee.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0529",
+    "phrase": "relate",
+    "meaning": "v. 联系",
+    "example": "How does this relate to your work?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0530",
+    "phrase": "release",
+    "meaning": "v./n. 发布",
+    "example": "The company released a new version.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0531",
+    "phrase": "relevant",
+    "meaning": "adj. 相关的",
+    "example": "Only include relevant information.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0532",
+    "phrase": "reliable",
+    "meaning": "adj. 可靠的",
+    "example": "Public transport is not always reliable.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0533",
+    "phrase": "relief",
+    "meaning": "n. 缓解",
+    "example": "The medicine provided quick relief.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0534",
+    "phrase": "reluctant",
+    "meaning": "adj. 不情愿的",
+    "example": "He was reluctant to admit his mistake.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0535",
+    "phrase": "rely",
+    "meaning": "v. 依靠",
+    "example": "You cannot always rely on others.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0536",
+    "phrase": "remain",
+    "meaning": "v. 保持",
+    "example": "The issue remains unresolved.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0537",
+    "phrase": "remarkable",
+    "meaning": "adj. 非凡的",
+    "example": "She has made remarkable progress.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0538",
+    "phrase": "remote",
+    "meaning": "adj. 偏远的",
+    "example": "The village is very remote.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0539",
+    "phrase": "renewable",
+    "meaning": "adj. 可再生的",
+    "example": "Solar energy is a renewable energy source.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0540",
+    "phrase": "replace",
+    "meaning": "v. 代替",
+    "example": "Robots are replacing some factory jobs.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0541",
+    "phrase": "represent",
+    "meaning": "v. 代表",
+    "example": "This symbol represents peace.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0542",
+    "phrase": "require",
+    "meaning": "v. 需要",
+    "example": "The job requires excellent communication skills.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0543",
+    "phrase": "research",
+    "meaning": "n./v. 研究",
+    "example": "Further research is needed.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0544",
+    "phrase": "resemble",
+    "meaning": "v. 类似",
+    "example": "The child resembles her mother.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0545",
+    "phrase": "reserve",
+    "meaning": "v./n. 保留",
+    "example": "Please reserve a table for two.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0546",
+    "phrase": "resident",
+    "meaning": "n. 居民",
+    "example": "Residents voted against the proposal.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0547",
+    "phrase": "resolve",
+    "meaning": "v. 解决",
+    "example": "The conflict was resolved through negotiation.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0548",
+    "phrase": "resource",
+    "meaning": "n. 资源",
+    "example": "Water is a precious resource.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0549",
+    "phrase": "respond",
+    "meaning": "v. 回应",
+    "example": "She responded to the criticism calmly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0550",
+    "phrase": "restore",
+    "meaning": "v. 恢复",
+    "example": "Efforts are being made to restore the building.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0551",
+    "phrase": "restrict",
+    "meaning": "v. 限制",
+    "example": "Parking is restricted to residents only.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0552",
+    "phrase": "retain",
+    "meaning": "v. 保留",
+    "example": "You should retain all original documents.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0553",
+    "phrase": "reveal",
+    "meaning": "v. 揭示",
+    "example": "The investigation revealed serious flaws.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0554",
+    "phrase": "revenue",
+    "meaning": "n. 收入",
+    "example": "The companys revenue doubled last year.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0555",
+    "phrase": "reverse",
+    "meaning": "v./adj. 颠倒",
+    "example": "The car reversed into a parking space.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0556",
+    "phrase": "revolution",
+    "meaning": "n. 革命",
+    "example": "The Industrial Revolution changed society.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0557",
+    "phrase": "rhythm",
+    "meaning": "n. 节奏",
+    "example": "The music has a catchy rhythm.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0558",
+    "phrase": "rival",
+    "meaning": "n./adj. 对手",
+    "example": "The two companies are fierce rivals.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0559",
+    "phrase": "robust",
+    "meaning": "adj. 强健的",
+    "example": "The economy remains robust.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0560",
+    "phrase": "role",
+    "meaning": "n. 角色",
+    "example": "Technology plays an important role in education.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0561",
+    "phrase": "routine",
+    "meaning": "n. 常规",
+    "example": "She follows a strict exercise routine.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0562",
+    "phrase": "sacrifice",
+    "meaning": "v./n. 牺牲",
+    "example": "He sacrificed his career for his family.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0563",
+    "phrase": "scandal",
+    "meaning": "n. 丑闻",
+    "example": "The scandal led to the ministers resignation.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0564",
+    "phrase": "scheme",
+    "meaning": "n. 方案",
+    "example": "The government introduced a new savings scheme.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0565",
+    "phrase": "scope",
+    "meaning": "n. 范围",
+    "example": "The study has a narrow scope.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0566",
+    "phrase": "secure",
+    "meaning": "adj./v. 安全的",
+    "example": "Secure a copy before it is too late.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0567",
+    "phrase": "seek",
+    "meaning": "v. 寻找",
+    "example": "She seeks advice from her mentor.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0568",
+    "phrase": "select",
+    "meaning": "v. 选择",
+    "example": "Students are selected based on merit.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0569",
+    "phrase": "senate",
+    "meaning": "n. 参议院",
+    "example": "The bill passed the senate.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0570",
+    "phrase": "separate",
+    "meaning": "v./adj. 分开",
+    "example": "Keep your work and personal life separate.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0571",
+    "phrase": "sequence",
+    "meaning": "n. 序列",
+    "example": "The events happened in rapid sequence.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0572",
+    "phrase": "session",
+    "meaning": "n. 会议",
+    "example": "The parliamentary session was adjourned.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0573",
+    "phrase": "shift",
+    "meaning": "n./v. 转变",
+    "example": "There has been a shift towards remote work.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0574",
+    "phrase": "significant",
+    "meaning": "adj. 重要的",
+    "example": "There was a significant increase in sales.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0575",
+    "phrase": "similar",
+    "meaning": "adj. 相似的",
+    "example": "The two paintings are remarkably similar.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0576",
+    "phrase": "site",
+    "meaning": "n. 地点",
+    "example": "The site of the battle is now a park.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0577",
+    "phrase": "situation",
+    "meaning": "n. 情况",
+    "example": "The economic situation is improving.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0578",
+    "phrase": "skilled",
+    "meaning": "adj. 熟练的",
+    "example": "We need skilled workers for this project.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0579",
+    "phrase": "slight",
+    "meaning": "adj. 轻微的",
+    "example": "There was a slight improvement in performance.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0580",
+    "phrase": "smooth",
+    "meaning": "adj. 顺利的",
+    "example": "The transition was smooth and uneventful.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0581",
+    "phrase": "social",
+    "meaning": "adj. 社会的",
+    "example": "Social media influences political discourse.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0582",
+    "phrase": "source",
+    "meaning": "n. 来源",
+    "example": "The source of the leak remains unknown.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0583",
+    "phrase": "specific",
+    "meaning": "adj. 具体的",
+    "example": "Can you be more specific?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0584",
+    "phrase": "sphere",
+    "meaning": "n. 领域",
+    "example": "Technology and politics are separate spheres.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0585",
+    "phrase": "stable",
+    "meaning": "adj. 稳定的",
+    "example": "The economy is finally stable.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0586",
+    "phrase": "standard",
+    "meaning": "n./adj. 标准",
+    "example": "Safety standards have been raised.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0587",
+    "phrase": "statistic",
+    "meaning": "n. 统计",
+    "example": "The statistic shows a growing trend.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0588",
+    "phrase": "status",
+    "meaning": "n. 地位",
+    "example": "The report examines the status of women in tech.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0589",
+    "phrase": "steady",
+    "meaning": "adj. 稳定的",
+    "example": "There has been steady progress.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0590",
+    "phrase": "stimulate",
+    "meaning": "v. 刺激",
+    "example": "The tax cut is designed to stimulate growth.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0591",
+    "phrase": "strategic",
+    "meaning": "adj. 战略的",
+    "example": "This is a strategic decision.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0592",
+    "phrase": "strength",
+    "meaning": "n. 力量",
+    "example": "The strength of the economy is surprising.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0593",
+    "phrase": "stress",
+    "meaning": "n./v. 压力",
+    "example": "Work-related stress is a growing problem.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0594",
+    "phrase": "strict",
+    "meaning": "adj. 严格的",
+    "example": "The school has strict rules.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0595",
+    "phrase": "structure",
+    "meaning": "n./v. 结构",
+    "example": "The essay needs a clear structure.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0596",
+    "phrase": "style",
+    "meaning": "n. 风格",
+    "example": "Her writing style is very distinctive.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0597",
+    "phrase": "subject",
+    "meaning": "n. 主题",
+    "example": "The subject of the meeting was budget.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0598",
+    "phrase": "submit",
+    "meaning": "v. 提交",
+    "example": "Please submit your essay by Friday.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0599",
+    "phrase": "subsequent",
+    "meaning": "adj. 后来的",
+    "example": "Subsequent events proved him wrong.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0600",
+    "phrase": "substance",
+    "meaning": "n. 实质",
+    "example": "The substance was found to be non-toxic.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0601",
+    "phrase": "substitute",
+    "meaning": "v./n. 代替",
+    "example": "You can substitute butter with oil.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0602",
+    "phrase": "subtle",
+    "meaning": "adj. 微妙的",
+    "example": "There was a subtle change in his tone.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0603",
+    "phrase": "sufficient",
+    "meaning": "adj. 足够的",
+    "example": "Do we have sufficient evidence?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0604",
+    "phrase": "suggest",
+    "meaning": "v. 建议",
+    "example": "I suggest we reconsider the plan.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0605",
+    "phrase": "summit",
+    "meaning": "n. 峰会",
+    "example": "World leaders met at the climate summit.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0606",
+    "phrase": "supplement",
+    "meaning": "v./n. 补充",
+    "example": "You should supplement your diet with vitamins.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0607",
+    "phrase": "supply",
+    "meaning": "n./v. 供应",
+    "example": "The supply of oil is declining.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0608",
+    "phrase": "support",
+    "meaning": "v./n. 支持",
+    "example": "The plan has strong support from teachers.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0609",
+    "phrase": "suppose",
+    "meaning": "v. 假设",
+    "example": "I suppose you are right.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0610",
+    "phrase": "surface",
+    "meaning": "n. 表面",
+    "example": "The surface of the moon is covered in craters.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0611",
+    "phrase": "surplus",
+    "meaning": "n. 过剩",
+    "example": "There is a surplus of oil this year.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0612",
+    "phrase": "surround",
+    "meaning": "v. 包围",
+    "example": "The house is surrounded by trees.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0613",
+    "phrase": "survey",
+    "meaning": "n./v. 调查",
+    "example": "A recent survey showed that...",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0614",
+    "phrase": "survive",
+    "meaning": "v. 幸存",
+    "example": "Few survived the earthquake.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0615",
+    "phrase": "suspect",
+    "meaning": "v./n. 怀疑",
+    "example": "Police suspect a connection between the crimes.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0616",
+    "phrase": "sustain",
+    "meaning": "v. 维持",
+    "example": "The economy cannot sustain this level of debt.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0617",
+    "phrase": "symbol",
+    "meaning": "n. 象征",
+    "example": "The dove is a symbol of peace.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0618",
+    "phrase": "tackle",
+    "meaning": "v. 处理",
+    "example": "We need to tackle the problem of pollution.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0619",
+    "phrase": "target",
+    "meaning": "n./v. 目标",
+    "example": "The target is to reduce emissions by fifty percent.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0620",
+    "phrase": "technique",
+    "meaning": "n. 技术",
+    "example": "The painting uses a unique technique.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0621",
+    "phrase": "technology",
+    "meaning": "n. 技术",
+    "example": "Technology is changing the way we work.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0622",
+    "phrase": "tend",
+    "meaning": "v. 倾向",
+    "example": "People tend to overestimate their abilities.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0623",
+    "phrase": "tension",
+    "meaning": "n. 紧张",
+    "example": "Tensions between the two countries have increased.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0624",
+    "phrase": "terminal",
+    "meaning": "adj./n. 末端的",
+    "example": "The patient has a terminal illness.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0625",
+    "phrase": "theme",
+    "meaning": "n. 主题",
+    "example": "The theme of the festival is environmental protection.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0626",
+    "phrase": "theory",
+    "meaning": "n. 理论",
+    "example": "The theory has been widely accepted.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0627",
+    "phrase": "thereby",
+    "meaning": "adv. 从而",
+    "example": "The policy reduces costs, thereby increasing profits.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0628",
+    "phrase": "thorough",
+    "meaning": "adj. 彻底的",
+    "example": "A thorough investigation was conducted.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0629",
+    "phrase": "threat",
+    "meaning": "n. 威胁",
+    "example": "Climate change poses a threat to biodiversity.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0630",
+    "phrase": "threshold",
+    "meaning": "n. 阈值",
+    "example": "Income above the threshold is taxed.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0631",
+    "phrase": "transfer",
+    "meaning": "v./n. 转移",
+    "example": "She transferred to a different department.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0632",
+    "phrase": "transform",
+    "meaning": "v. 转变",
+    "example": "The internet has transformed communication.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0633",
+    "phrase": "transition",
+    "meaning": "n. 过渡",
+    "example": "The transition to renewable energy is underway.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0634",
+    "phrase": "transmit",
+    "meaning": "v. 传播",
+    "example": "Mosquitoes transmit malaria.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0635",
+    "phrase": "transport",
+    "meaning": "n./v. 运输",
+    "example": "Public transport reduces traffic congestion.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0636",
+    "phrase": "trend",
+    "meaning": "n. 趋势",
+    "example": "There is a growing trend towards remote work.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0637",
+    "phrase": "trigger",
+    "meaning": "v./n. 触发",
+    "example": "The report triggered a public debate.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0638",
+    "phrase": "ultimate",
+    "meaning": "adj. 最终的",
+    "example": "The ultimate goal is to eradicate poverty.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0639",
+    "phrase": "undergo",
+    "meaning": "v. 经历",
+    "example": "The building will undergo renovation.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0640",
+    "phrase": "underlying",
+    "meaning": "adj. 根本的",
+    "example": "The underlying cause is still unknown.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0641",
+    "phrase": "undermine",
+    "meaning": "v. 破坏",
+    "example": "Corruption undermines public trust.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0642",
+    "phrase": "undertake",
+    "meaning": "v. 承担",
+    "example": "She undertook the responsibility willingly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0643",
+    "phrase": "unexpected",
+    "meaning": "adj. 意外的",
+    "example": "The news came as an unexpected surprise.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0644",
+    "phrase": "unify",
+    "meaning": "v. 统一",
+    "example": "The policy aims to unify the different regions.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0645",
+    "phrase": "unique",
+    "meaning": "adj. 独特的",
+    "example": "Every individual is unique.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0646",
+    "phrase": "universal",
+    "meaning": "adj. 普遍的",
+    "example": "Music is a universal language.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0647",
+    "phrase": "update",
+    "meaning": "v./n. 更新",
+    "example": "Please update your software regularly.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0648",
+    "phrase": "upgrade",
+    "meaning": "v./n. 升级",
+    "example": "They upgraded the computer system.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0649",
+    "phrase": "utilise",
+    "meaning": "v. 利用",
+    "example": "We must utilise our resources efficiently.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0650",
+    "phrase": "valid",
+    "meaning": "adj. 有效的",
+    "example": "Your ticket is valid for one year.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0651",
+    "phrase": "variation",
+    "meaning": "n. 变化",
+    "example": "There is significant variation in prices.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0652",
+    "phrase": "vast",
+    "meaning": "adj. 巨大的",
+    "example": "The universe is vast and largely unknown.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0653",
+    "phrase": "vehicle",
+    "meaning": "n. 车辆",
+    "example": "Electric vehicles are becoming more popular.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0654",
+    "phrase": "version",
+    "meaning": "n. 版本",
+    "example": "This is the latest version of the software.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0655",
+    "phrase": "via",
+    "meaning": "prep. 通过",
+    "example": "You can pay via credit card.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0656",
+    "phrase": "violate",
+    "meaning": "v. 违反",
+    "example": "The company violated safety regulations.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0657",
+    "phrase": "virtue",
+    "meaning": "n. 美德",
+    "example": "Patience is a virtue.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0658",
+    "phrase": "visible",
+    "meaning": "adj. 可见的",
+    "example": "The damage is barely visible.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0659",
+    "phrase": "vision",
+    "meaning": "n. 愿景",
+    "example": "The leader had a clear vision for the future.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0660",
+    "phrase": "visual",
+    "meaning": "adj. 视觉的",
+    "example": "Visual aids can improve presentations.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0661",
+    "phrase": "volume",
+    "meaning": "n. 体积",
+    "example": "The volume of trade has increased.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0662",
+    "phrase": "voluntary",
+    "meaning": "adj. 自愿的",
+    "example": "The work is entirely voluntary.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0663",
+    "phrase": "volunteer",
+    "meaning": "n./v. 志愿者",
+    "example": "She volunteers at the local shelter.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0664",
+    "phrase": "vulnerable",
+    "meaning": "adj. 脆弱的",
+    "example": "Children are particularly vulnerable to disease.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0665",
+    "phrase": "wage",
+    "meaning": "n. 工资",
+    "example": "The minimum wage was increased.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0666",
+    "phrase": "welfare",
+    "meaning": "n. 福利",
+    "example": "The government provides welfare support.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0667",
+    "phrase": "widespread",
+    "meaning": "adj. 广泛的",
+    "example": "There is widespread support for the plan.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0668",
+    "phrase": "willing",
+    "meaning": "adj. 愿意的",
+    "example": "Are you willing to help?",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0669",
+    "phrase": "wisdom",
+    "meaning": "n. 智慧",
+    "example": "Experience brings wisdom.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0670",
+    "phrase": "witness",
+    "meaning": "v./n. 目击",
+    "example": "She witnessed the accident.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0671",
+    "phrase": "worthwhile",
+    "meaning": "adj. 值得的",
+    "example": "It was a worthwhile experience.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0672",
+    "phrase": "yield",
+    "meaning": "v./n. 产出",
+    "example": "The farm yields a good harvest.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0673",
+    "phrase": "youth",
+    "meaning": "n. 青年",
+    "example": "Youth unemployment is a growing concern.",
+    "due": "2026-07-05",
+    "mastery": 0
+  },
+  {
+    "id": "v-0674",
+    "phrase": "zone",
+    "meaning": "n. 区域",
+    "example": "The city was divided into economic zones.",
+    "due": "2026-07-05",
+    "mastery": 0
+  }
+]
