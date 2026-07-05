@@ -12,6 +12,9 @@ import {
 } from "@/lib/domain/learning";
 import { createBrowserLearnerRepository } from "@/lib/storage/browser-repository";
 import type { LearnerRepository, LearnerState } from "@/lib/storage/repository";
+import { createClient } from "@/lib/supabase/client";
+import { SupabaseSync } from "@/lib/storage/supabase-sync";
+import type { LearningAttempt } from "@/lib/domain/types";
 import { ContributionGrid } from "./contribution-grid";
 import { SkillProgress } from "./skill-progress";
 
@@ -22,6 +25,12 @@ export function Dashboard({ repository }: { repository?: LearnerRepository }) {
   const [state, setState] = useState<LearnerState>(() => repo.load());
   const [dataMessage, setDataMessage] = useState("");
 
+  const supabase = createClient();
+  const sync = useMemo(
+    () => (supabase ? new SupabaseSync(supabase, repo) : null),
+    [supabase, repo]
+  );
+
   const today = todayISO();
   const task = useMemo(() => selectNextTask(state.tasks, 10), [state.tasks]);
   const todayAttempts = getAttemptsForDate(state.attempts, today);
@@ -29,17 +38,25 @@ export function Dashboard({ repository }: { repository?: LearnerRepository }) {
   const dailyContributions = aggregateDailyContributions(state.attempts);
   const streak = calculateStreak(dailyContributions, today);
 
+  function syncAttempt(attempt: LearningAttempt) {
+    if (sync) {
+      sync.syncAttempt(attempt).catch(() => {});
+    }
+  }
+
   const completeTask = () => {
     if (!task) return;
-    const next = repo.recordAttempt({
+    const attempt: LearningAttempt = {
       id: `${task.id}-${Date.now()}`,
       taskId: task.id,
       date: todayISO(),
       kind: task.skill === "writing" || task.skill === "speaking" ? "output" : "completion",
       minutes: task.duration,
       detail: task.title,
-    });
+    };
+    const next = repo.recordAttempt(attempt);
     setState(next);
+    syncAttempt(attempt);
   };
 
   const todayDiff = [...todayAttempts].reverse();

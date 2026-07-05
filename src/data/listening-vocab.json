@@ -1,0 +1,1076 @@
+[
+  {
+    "word": "reserve",
+    "pos": "v.",
+    "meaning": "预订",
+    "synonyms": "book"
+  },
+  {
+    "word": "in advance",
+    "pos": "",
+    "meaning": "提前",
+    "synonyms": "ahead、before"
+  },
+  {
+    "word": "have to",
+    "pos": "",
+    "meaning": "必须",
+    "synonyms": "must、should、need、require、necessary、be supposed to、demand、order"
+  },
+  {
+    "word": "adjust",
+    "pos": "v.",
+    "meaning": "调整；改变",
+    "synonyms": "change、alter、modify、shift、revert"
+  },
+  {
+    "word": "and",
+    "pos": "conj.",
+    "meaning": "和",
+    "synonyms": "and also、as well as、with、in addition"
+  },
+  {
+    "word": "but",
+    "pos": "conj.",
+    "meaning": "但是",
+    "synonyms": "however、yet、instead"
+  },
+  {
+    "word": "because",
+    "pos": "conj.",
+    "meaning": "因为",
+    "synonyms": "why、as a result、therefore、cause"
+  },
+  {
+    "word": "diversity",
+    "pos": "n.",
+    "meaning": "多样性",
+    "synonyms": "a variety of、a number of、a range of、various、different"
+  },
+  {
+    "word": "fee",
+    "pos": "n.",
+    "meaning": "费用，花销",
+    "synonyms": "money、cost、price、expense、budget、fund、financial、economic"
+  },
+  {
+    "word": "establish",
+    "pos": "v.",
+    "meaning": "建造",
+    "synonyms": "build、create、construct、set up、install"
+  },
+  {
+    "word": "transfer",
+    "pos": "v.",
+    "meaning": "搬，移动",
+    "synonyms": "move、relocate"
+  },
+  {
+    "word": "habitat",
+    "pos": "n.",
+    "meaning": "栖息地",
+    "synonyms": "live、territory"
+  },
+  {
+    "word": "international",
+    "pos": "adj.",
+    "meaning": "国际的",
+    "synonyms": "countries、continents、global"
+  },
+  {
+    "word": "export",
+    "pos": "v.",
+    "meaning": "出口",
+    "synonyms": "abroad、overseas"
+  },
+  {
+    "word": "vegetation",
+    "pos": "n.",
+    "meaning": "植被",
+    "synonyms": "plant、tree、forest、botanic"
+  },
+  {
+    "word": "animal",
+    "pos": "n.",
+    "meaning": "动物",
+    "synonyms": "mammal、wildlife、creature、species"
+  },
+  {
+    "word": "feature",
+    "pos": "n.",
+    "meaning": "特点",
+    "synonyms": "characteristic、trait、property"
+  },
+  {
+    "word": "emigrate",
+    "pos": "v.",
+    "meaning": "迁徙",
+    "synonyms": "move、go away"
+  },
+  {
+    "word": "food",
+    "pos": "n.",
+    "meaning": "食物",
+    "synonyms": "feed on、eat"
+  },
+  {
+    "word": "allergic",
+    "pos": "adj.",
+    "meaning": "过敏的",
+    "synonyms": "can't eat"
+  },
+  {
+    "word": "fitness",
+    "pos": "n.",
+    "meaning": "健康",
+    "synonyms": "health、medical、sickness、illness、gym"
+  },
+  {
+    "word": "tradition",
+    "pos": "n.",
+    "meaning": "传统",
+    "synonyms": "custom、convention、local culture、lifestyle"
+  },
+  {
+    "word": "entertainment",
+    "pos": "n.",
+    "meaning": "娱乐",
+    "synonyms": "recreation、leisure"
+  },
+  {
+    "word": "press",
+    "pos": "n.",
+    "meaning": "媒体",
+    "synonyms": "media、TV、newspaper、radio"
+  },
+  {
+    "word": "online",
+    "pos": "n.",
+    "meaning": "网络",
+    "synonyms": "Internet、website"
+  },
+  {
+    "word": "publicity",
+    "pos": "n.",
+    "meaning": "宣传",
+    "synonyms": "website、media、news、marketing"
+  },
+  {
+    "word": "picture",
+    "pos": "n.",
+    "meaning": "照片",
+    "synonyms": "photo、photograph、camera、image"
+  },
+  {
+    "word": "jewellery",
+    "pos": "n.",
+    "meaning": "珠宝",
+    "synonyms": "rings、bracelets、necklaces、precious stones、gem、diamond、luxurious"
+  },
+  {
+    "word": "artwork",
+    "pos": "n.",
+    "meaning": "艺术品",
+    "synonyms": "painting、drawing、craft"
+  },
+  {
+    "word": "statue",
+    "pos": "n.",
+    "meaning": "雕像",
+    "synonyms": "sculpture、carving"
+  },
+  {
+    "word": "movie",
+    "pos": "n.",
+    "meaning": "电影",
+    "synonyms": "film、documentary、cinema"
+  },
+  {
+    "word": "geology",
+    "pos": "n.",
+    "meaning": "地质学；地质情况",
+    "synonyms": "cliff、fossil、rock、landscape"
+  },
+  {
+    "word": "countryside",
+    "pos": "adj.",
+    "meaning": "乡村的",
+    "synonyms": "rural area"
+  },
+  {
+    "word": "urban",
+    "pos": "adj.",
+    "meaning": "城市的",
+    "synonyms": "city、metropolitan"
+  },
+  {
+    "word": "coastline",
+    "pos": "n.",
+    "meaning": "海岸线",
+    "synonyms": "shore、seaside"
+  },
+  {
+    "word": "environment",
+    "pos": "n.",
+    "meaning": "周围环境",
+    "synonyms": "neighbourhood、surrounding"
+  },
+  {
+    "word": "noisy",
+    "pos": "adj.",
+    "meaning": "吵闹的",
+    "synonyms": "disturbing、not quiet"
+  },
+  {
+    "word": "capacity",
+    "pos": "n.",
+    "meaning": "容量",
+    "synonyms": "volume、room、space、size"
+  },
+  {
+    "word": "outdoor",
+    "pos": "adj.",
+    "meaning": "户外的",
+    "synonyms": "gardens、park、open air"
+  },
+  {
+    "word": "accommodation",
+    "pos": "n.",
+    "meaning": "住宿",
+    "synonyms": "living、dwelling、dorm"
+  },
+  {
+    "word": "place",
+    "pos": "n.",
+    "meaning": "地点",
+    "synonyms": "where、spot、location、area"
+  },
+  {
+    "word": "near",
+    "pos": "adj.",
+    "meaning": "附近的",
+    "synonyms": "close、not far from、nearby"
+  },
+  {
+    "word": "remote",
+    "pos": "adj.",
+    "meaning": "偏远的",
+    "synonyms": "isolated、distant"
+  },
+  {
+    "word": "advantage",
+    "pos": "n.",
+    "meaning": "优点",
+    "synonyms": "benefit、positive、good thing、strength"
+  },
+  {
+    "word": "disadvantage",
+    "pos": "n.",
+    "meaning": "缺点",
+    "synonyms": "drawback、shortcoming、negative、problem"
+  },
+  {
+    "word": "education",
+    "pos": "n.",
+    "meaning": "教育",
+    "synonyms": "schools、colleges、institution"
+  },
+  {
+    "word": "ordinary people",
+    "pos": "",
+    "meaning": "公众",
+    "synonyms": "people、inhabitants、the public、men and women"
+  },
+  {
+    "word": "student",
+    "pos": "n.",
+    "meaning": "学生",
+    "synonyms": "pupil、undergraduate、postgraduate"
+  },
+  {
+    "word": "purpose",
+    "pos": "n.",
+    "meaning": "目标",
+    "synonyms": "aim、goal、target、key areas"
+  },
+  {
+    "word": "learn",
+    "pos": "v.",
+    "meaning": "学习",
+    "synonyms": "acquire、get、obtain"
+  },
+  {
+    "word": "structure",
+    "pos": "n.",
+    "meaning": "结构大纲",
+    "synonyms": "outline、framework"
+  },
+  {
+    "word": "reference materials",
+    "pos": "",
+    "meaning": "参考资料",
+    "synonyms": "books、journals、magazines"
+  },
+  {
+    "word": "extensive",
+    "pos": "adj.",
+    "meaning": "广泛的",
+    "synonyms": "comprehensive、a lot of、many"
+  },
+  {
+    "word": "expertise",
+    "pos": "n.",
+    "meaning": "能力，专长",
+    "synonyms": "ability、skill"
+  },
+  {
+    "word": "group",
+    "pos": "n.",
+    "meaning": "团队",
+    "synonyms": "team"
+  },
+  {
+    "word": "associate",
+    "pos": "v.",
+    "meaning": "与……相关",
+    "synonyms": "relate to、connect、link"
+  },
+  {
+    "word": "approach",
+    "pos": "n.",
+    "meaning": "方法",
+    "synonyms": "way、how、method"
+  },
+  {
+    "word": "motivate",
+    "pos": "v.",
+    "meaning": "鼓励，促进",
+    "synonyms": "encourage、stimulate、keep active、boost、help"
+  },
+  {
+    "word": "improve",
+    "pos": "v.",
+    "meaning": "提升",
+    "synonyms": "develop、promote"
+  },
+  {
+    "word": "overlook",
+    "pos": "v.",
+    "meaning": "低估",
+    "synonyms": "underestimate、neglect"
+  },
+  {
+    "word": "omit",
+    "pos": "v.",
+    "meaning": "省掉",
+    "synonyms": "leave out、cancel"
+  },
+  {
+    "word": "find",
+    "pos": "v.",
+    "meaning": "发现",
+    "synonyms": "discover、detect、spot、see、sight"
+  },
+  {
+    "word": "opportunity",
+    "pos": "n.",
+    "meaning": "机会",
+    "synonyms": "chance、odds、hope"
+  },
+  {
+    "word": "difficult",
+    "pos": "adj.",
+    "meaning": "困难的",
+    "synonyms": "problem、hard、not easy、not simple"
+  },
+  {
+    "word": "prevent",
+    "pos": "v.",
+    "meaning": "阻止，避免",
+    "synonyms": "avoid、stop、escape、forbid、out of bounds"
+  },
+  {
+    "word": "misunderstand",
+    "pos": "v.",
+    "meaning": "理解错误",
+    "synonyms": "wrong idea、confuse、puzzle、perplex"
+  },
+  {
+    "word": "try hard",
+    "pos": "",
+    "meaning": "努力",
+    "synonyms": "make、efforts、hard working"
+  },
+  {
+    "word": "feedback",
+    "pos": "n.",
+    "meaning": "反馈",
+    "synonyms": "response、reaction、reply"
+  },
+  {
+    "word": "affect",
+    "pos": "v.",
+    "meaning": "影响",
+    "synonyms": "impact、influence、effect"
+  },
+  {
+    "word": "analysis",
+    "pos": "n.",
+    "meaning": "分析，认知",
+    "synonyms": "perspective、understand、perceive、know"
+  },
+  {
+    "word": "result",
+    "pos": "n.",
+    "meaning": "结果",
+    "synonyms": "outcome、consequence、conclusion"
+  },
+  {
+    "word": "handle",
+    "pos": "v.",
+    "meaning": "处理",
+    "synonyms": "dealwith、cope with、figure out、work out、take care of"
+  },
+  {
+    "word": "support",
+    "pos": "n.",
+    "meaning": "帮助",
+    "synonyms": "help、assistance、aid、tip"
+  },
+  {
+    "word": "ideal",
+    "pos": "adj.",
+    "meaning": "完美的",
+    "synonyms": "perfect"
+  },
+  {
+    "word": "rigorous",
+    "pos": "adj.",
+    "meaning": "严格的",
+    "synonyms": "strict、demanding"
+  },
+  {
+    "word": "restrict",
+    "pos": "v.",
+    "meaning": "限制",
+    "synonyms": "limit、not permit"
+  },
+  {
+    "word": "similar",
+    "pos": "adj.",
+    "meaning": "相似的",
+    "synonyms": "like、compare"
+  },
+  {
+    "word": "particular",
+    "pos": "adj.",
+    "meaning": "特别的",
+    "synonyms": "special、in particular、especially"
+  },
+  {
+    "word": "copy",
+    "pos": "v.",
+    "meaning": "重复",
+    "synonyms": "repeat、reproduce"
+  },
+  {
+    "word": "statistics",
+    "pos": "n.",
+    "meaning": "统计学",
+    "synonyms": "data、figure"
+  },
+  {
+    "word": "maximum",
+    "pos": "n.",
+    "meaning": "最大值",
+    "synonyms": "up to、at most"
+  },
+  {
+    "word": "minimum",
+    "pos": "n.",
+    "meaning": "最小值",
+    "synonyms": "at least"
+  },
+  {
+    "word": "initial",
+    "pos": "adj.",
+    "meaning": "最初的，开始的",
+    "synonyms": "at first、start、begin、early on、premiere"
+  },
+  {
+    "word": "limited",
+    "pos": "adj.",
+    "meaning": "少量的",
+    "synonyms": "just a few、a little、small、a small number of、not many、miniature"
+  },
+  {
+    "word": "shorten",
+    "pos": "v.",
+    "meaning": "截短",
+    "synonyms": "cut down"
+  },
+  {
+    "word": "decrease",
+    "pos": "v.",
+    "meaning": "降低",
+    "synonyms": "lower、reduce、fewer、drop、fall、decrease"
+  },
+  {
+    "word": "lack",
+    "pos": "n./v.",
+    "meaning": "缺乏",
+    "synonyms": "shortage、insufficient、fewer、not enough"
+  },
+  {
+    "word": "large",
+    "pos": "adj.",
+    "meaning": "大的",
+    "synonyms": "big、huge"
+  },
+  {
+    "word": "amount of",
+    "pos": "",
+    "meaning": "大量",
+    "synonyms": "lots of、large quantities of、loads of"
+  },
+  {
+    "word": "majority",
+    "pos": "n.",
+    "meaning": "绝大部分",
+    "synonyms": "most"
+  },
+  {
+    "word": "double",
+    "pos": "v.",
+    "meaning": "两倍",
+    "synonyms": "twice"
+  },
+  {
+    "word": "more than",
+    "pos": "",
+    "meaning": "超过",
+    "synonyms": "over、beyond、exceed、above"
+  },
+  {
+    "word": "at present",
+    "pos": "",
+    "meaning": "当前",
+    "synonyms": "already、existing、currently、nowadays"
+  },
+  {
+    "word": "update",
+    "pos": "v.",
+    "meaning": "更新",
+    "synonyms": "upgrade、up to date、more current、modern"
+  },
+  {
+    "word": "newest",
+    "pos": "adj.",
+    "meaning": "最新的",
+    "synonyms": "latest"
+  },
+  {
+    "word": "soon",
+    "pos": "adv.",
+    "meaning": "将来",
+    "synonyms": "later、in the future"
+  },
+  {
+    "word": "out of date",
+    "pos": "",
+    "meaning": "过时的",
+    "synonyms": "old fashioned"
+  },
+  {
+    "word": "ancient",
+    "pos": "adj.",
+    "meaning": "古老的，过去的",
+    "synonyms": "medieval、in the past、once、historical、old、ancient、former"
+  },
+  {
+    "word": "temporary",
+    "pos": "adj.",
+    "meaning": "暂时的",
+    "synonyms": "a short time"
+  },
+  {
+    "word": "deadline",
+    "pos": "n.",
+    "meaning": "截止时间",
+    "synonyms": "time pressure、on time"
+  },
+  {
+    "word": "permanent",
+    "pos": "adj.",
+    "meaning": "长久的",
+    "synonyms": "long-lasting"
+  },
+  {
+    "word": "more often",
+    "pos": "",
+    "meaning": "频繁",
+    "synonyms": "frequent"
+  },
+  {
+    "word": "annual",
+    "pos": "adj.",
+    "meaning": "年度的",
+    "synonyms": "every year"
+  },
+  {
+    "word": "every month",
+    "pos": "",
+    "meaning": "每个月",
+    "synonyms": "monthly、four weeks"
+  },
+  {
+    "word": "every day",
+    "pos": "",
+    "meaning": "每天",
+    "synonyms": "daily"
+  },
+  {
+    "word": "classify",
+    "pos": "v.",
+    "meaning": "分类",
+    "synonyms": "category、sort、type、kind"
+  },
+  {
+    "word": "entrance",
+    "pos": "n.",
+    "meaning": "入口",
+    "synonyms": "access、main gate、door"
+  },
+  {
+    "word": "behind",
+    "pos": "prep.",
+    "meaning": "在……后面",
+    "synonyms": "back、rear"
+  },
+  {
+    "word": "below",
+    "pos": "prep.",
+    "meaning": "在……下面",
+    "synonyms": "under"
+  },
+  {
+    "word": "beside",
+    "pos": "prep.",
+    "meaning": "在……旁边",
+    "synonyms": "next to、near、border"
+  },
+  {
+    "word": "available",
+    "pos": "adj.",
+    "meaning": "可用的",
+    "synonyms": "have、accessible、not close、open"
+  },
+  {
+    "word": "boring",
+    "pos": "adj.",
+    "meaning": "无趣的",
+    "synonyms": "not interesting、boredom"
+  },
+  {
+    "word": "trend",
+    "pos": "n.",
+    "meaning": "倾向",
+    "synonyms": "possibility、likely、tendency"
+  },
+  {
+    "word": "risky",
+    "pos": "adj.",
+    "meaning": "危险的",
+    "synonyms": "dangerous、not safe、hazard"
+  },
+  {
+    "word": "poisonous",
+    "pos": "adj.",
+    "meaning": "有毒的",
+    "synonyms": "toxic、dangerous"
+  },
+  {
+    "word": "warning",
+    "pos": "n.",
+    "meaning": "警报",
+    "synonyms": "alarm、alert"
+  },
+  {
+    "word": "care",
+    "pos": "v.",
+    "meaning": "谨慎",
+    "synonyms": "caution"
+  },
+  {
+    "word": "steal",
+    "pos": "v.",
+    "meaning": "偷窃",
+    "synonyms": "theft"
+  },
+  {
+    "word": "protect",
+    "pos": "v.",
+    "meaning": "保护",
+    "synonyms": "safeguard、shelter、preserve"
+  },
+  {
+    "word": "injury",
+    "pos": "n.",
+    "meaning": "伤害",
+    "synonyms": "harm、hurt、damage、dangerous、frighten"
+  },
+  {
+    "word": "military",
+    "pos": "adj.",
+    "meaning": "军事的",
+    "synonyms": "battle、weapon、not peaceful"
+  },
+  {
+    "word": "tactics",
+    "pos": "n.",
+    "meaning": "策略",
+    "synonyms": "strategy、method"
+  },
+  {
+    "word": "rely on",
+    "pos": "",
+    "meaning": "依靠",
+    "synonyms": "depend on、count on"
+  },
+  {
+    "word": "travel",
+    "pos": "n.",
+    "meaning": "旅行",
+    "synonyms": "tourism、trip、passenger、flight"
+  },
+  {
+    "word": "space travel",
+    "pos": "",
+    "meaning": "空间旅行",
+    "synonyms": "aircraft、rocket、satellite"
+  },
+  {
+    "word": "transport",
+    "pos": "n.",
+    "meaning": "交通",
+    "synonyms": "vehicle、bus、train、boat、ship、ferry、subway"
+  },
+  {
+    "word": "specific",
+    "pos": "adj.",
+    "meaning": "具体的",
+    "synonyms": "detail、particular、example"
+  },
+  {
+    "word": "request",
+    "pos": "v.",
+    "meaning": "询问",
+    "synonyms": "ask for、inquiry"
+  },
+  {
+    "word": "clear",
+    "pos": "adj.",
+    "meaning": "清晰地",
+    "synonyms": "definitive"
+  },
+  {
+    "word": "freeze",
+    "pos": "v.",
+    "meaning": "结冰",
+    "synonyms": "froze、ice、chill、cold"
+  },
+  {
+    "word": "organization",
+    "pos": "n.",
+    "meaning": "公司",
+    "synonyms": "business、company、corporation structure"
+  },
+  {
+    "word": "organize",
+    "pos": "v.",
+    "meaning": "组织，安排",
+    "synonyms": "arrange、plan"
+  },
+  {
+    "word": "produce",
+    "pos": "v.",
+    "meaning": "产生",
+    "synonyms": "generate、make"
+  },
+  {
+    "word": "administer",
+    "pos": "v.",
+    "meaning": "管理，治理",
+    "synonyms": "manage"
+  },
+  {
+    "word": "occupation",
+    "pos": "n.",
+    "meaning": "职位",
+    "synonyms": "profession、job"
+  },
+  {
+    "word": "all ages",
+    "pos": "",
+    "meaning": "所有年龄的人",
+    "synonyms": "young and old"
+  },
+  {
+    "word": "youth",
+    "pos": "n.",
+    "meaning": "年轻",
+    "synonyms": "young、boy、child、teenager"
+  },
+  {
+    "word": "mate",
+    "pos": "n.",
+    "meaning": "伙伴",
+    "synonyms": "friend、peer"
+  },
+  {
+    "word": "staff",
+    "pos": "n.",
+    "meaning": "员工",
+    "synonyms": "recruit、worker、employee"
+  },
+  {
+    "word": "sale",
+    "pos": "v.",
+    "meaning": "销售",
+    "synonyms": "retail"
+  },
+  {
+    "word": "cheap",
+    "pos": "adj.",
+    "meaning": "便宜的",
+    "synonyms": "low price"
+  },
+  {
+    "word": "discount",
+    "pos": "n.",
+    "meaning": "打折",
+    "synonyms": "10% off、on sale"
+  },
+  {
+    "word": "round",
+    "pos": "n.",
+    "meaning": "圆",
+    "synonyms": "curve、circle"
+  },
+  {
+    "word": "order",
+    "pos": "n.",
+    "meaning": "顺序",
+    "synonyms": "sequence"
+  },
+  {
+    "word": "renovate",
+    "pos": "v.",
+    "meaning": "修理；翻新",
+    "synonyms": "fix、repair"
+  },
+  {
+    "word": "alone",
+    "pos": "adj.",
+    "meaning": "单独的",
+    "synonyms": "single、by themselves"
+  },
+  {
+    "word": "hospitality",
+    "pos": "n.",
+    "meaning": "招待",
+    "synonyms": "treatment、prepare refreshment"
+  },
+  {
+    "word": "shape like",
+    "pos": "",
+    "meaning": "像",
+    "synonyms": "look like、seem"
+  },
+  {
+    "word": "depress",
+    "pos": "v.",
+    "meaning": "失望，使沮丧",
+    "synonyms": "disappoint、dispirit、frustrate、discourage"
+  },
+  {
+    "word": "well-known",
+    "pos": "adj.",
+    "meaning": "有名的",
+    "synonyms": "famous、fame"
+  },
+  {
+    "word": "specialize in",
+    "pos": "",
+    "meaning": "专注于",
+    "synonyms": "focus、emphasis、concentrate"
+  },
+  {
+    "word": "part",
+    "pos": "n.",
+    "meaning": "部分",
+    "synonyms": "component、proportion、percent、section、element、ingredient"
+  },
+  {
+    "word": "typical",
+    "pos": "adj.",
+    "meaning": "典型的；普通的",
+    "synonyms": "representative、common、average"
+  },
+  {
+    "word": "uncommon",
+    "pos": "adj.",
+    "meaning": "特别的",
+    "synonyms": "special、unique、unusual、rare"
+  },
+  {
+    "word": "accurately",
+    "pos": "adv.",
+    "meaning": "精确地",
+    "synonyms": "precisely"
+  },
+  {
+    "word": "expand",
+    "pos": "v.",
+    "meaning": "扩建；扩张",
+    "synonyms": "add、enlarge、increase spaces"
+  },
+  {
+    "word": "climb",
+    "pos": "v.",
+    "meaning": "上升",
+    "synonyms": "go up、increase"
+  },
+  {
+    "word": "enhance",
+    "pos": "v.",
+    "meaning": "增强",
+    "synonyms": "improve、increase"
+  },
+  {
+    "word": "power",
+    "pos": "n.",
+    "meaning": "力量",
+    "synonyms": "force、energy"
+  },
+  {
+    "word": "fuel",
+    "pos": "n.",
+    "meaning": "燃料",
+    "synonyms": "coal、firewood、petrol、gas"
+  },
+  {
+    "word": "refurbish",
+    "pos": "v.",
+    "meaning": "重新装修",
+    "synonyms": "redecorate"
+  },
+  {
+    "word": "preference",
+    "pos": "n.",
+    "meaning": "偏爱；优先权",
+    "synonyms": "like、priority"
+  },
+  {
+    "word": "trust",
+    "pos": "v.",
+    "meaning": "信任",
+    "synonyms": "less suspicious、believe"
+  },
+  {
+    "word": "computer",
+    "pos": "n.",
+    "meaning": "电脑",
+    "synonyms": "laptop"
+  },
+  {
+    "word": "handy",
+    "pos": "adj.",
+    "meaning": "方便的",
+    "synonyms": "convenient"
+  },
+  {
+    "word": "demonstrate",
+    "pos": "v.",
+    "meaning": "展示",
+    "synonyms": "display、show、exhibition"
+  },
+  {
+    "word": "important",
+    "pos": "adj.",
+    "meaning": "主要的",
+    "synonyms": "significant、major、main、primary"
+  },
+  {
+    "word": "straightforward",
+    "pos": "adj.",
+    "meaning": "简单直接的",
+    "synonyms": "direct、first-hand、simple"
+  },
+  {
+    "word": "disused",
+    "pos": "adj.",
+    "meaning": "废弃的",
+    "synonyms": "empty、abandoned"
+  },
+  {
+    "word": "donate",
+    "pos": "v.",
+    "meaning": "捐赠",
+    "synonyms": "charity、give"
+  },
+  {
+    "word": "work",
+    "pos": "n.",
+    "meaning": "作品",
+    "synonyms": "item"
+  },
+  {
+    "word": "turn",
+    "pos": "v.",
+    "meaning": "转动",
+    "synonyms": "switch"
+  },
+  {
+    "word": "information",
+    "pos": "n.",
+    "meaning": "信息",
+    "synonyms": "details、data、graph、chart"
+  },
+  {
+    "word": "visualize",
+    "pos": "v.",
+    "meaning": "想象",
+    "synonyms": "imagine"
+  },
+  {
+    "word": "repetition",
+    "pos": "n.",
+    "meaning": "重复",
+    "synonyms": "over and over"
+  },
+  {
+    "word": "poor",
+    "pos": "adj.",
+    "meaning": "弱的",
+    "synonyms": "weak"
+  },
+  {
+    "word": "durable",
+    "pos": "adj.",
+    "meaning": "耐用的",
+    "synonyms": "stronger、longer"
+  },
+  {
+    "word": "pollutant",
+    "pos": "n.",
+    "meaning": "污染物",
+    "synonyms": "contaminant"
+  },
+  {
+    "word": "continue",
+    "pos": "v.",
+    "meaning": "继续",
+    "synonyms": "ahead、go on、keep doing"
+  }
+]

@@ -4,6 +4,9 @@ import { useState, useMemo } from "react";
 import { Volume2 } from "lucide-react";
 import { createBrowserLearnerRepository } from "@/lib/storage/browser-repository";
 import type { LearnerRepository } from "@/lib/storage/repository";
+import { createClient } from "@/lib/supabase/client";
+import { SupabaseSync } from "@/lib/storage/supabase-sync";
+import type { LearningAttempt } from "@/lib/domain/types";
 import vocabularyData from "@/data/vocabulary.json";
 import type { VocabularyItem } from "@/lib/domain/types";
 
@@ -20,6 +23,18 @@ function shuffle<T>(array: T[]): T[] {
 
 export function VocabularyReview({ repository }: { repository?: LearnerRepository }) {
   const [repo] = useState(() => repository ?? createBrowserLearnerRepository());
+  const supabase = createClient();
+  const sync = useMemo(
+    () => (supabase ? new SupabaseSync(supabase, repo) : null),
+    [supabase, repo]
+  );
+
+  function syncAttempt(attempt: LearningAttempt) {
+    if (sync) {
+      sync.syncAttempt(attempt).catch(() => {});
+    }
+  }
+
   const shuffledIds = useMemo(() => {
     const list = vocabularyData as VocabularyItem[];
     return shuffle(list.map((v) => v.id));
@@ -47,14 +62,16 @@ export function VocabularyReview({ repository }: { repository?: LearnerRepositor
   }
 
   function next(level: number) {
-    repo.recordAttempt({
+    const attempt: LearningAttempt = {
       id: `vocab-${item.id}-${Date.now()}`,
       taskId: "vocab-3",
       date: todayISO(),
       kind: "completion",
       minutes: 3,
       detail: `复习词块：${item.phrase}`,
-    });
+    };
+    repo.recordAttempt(attempt);
+    syncAttempt(attempt);
     setMastery((prev) => ({ ...prev, [item.id]: level }));
     setReviewed((value) => value + 1);
     setIndex((value) => value + 1);

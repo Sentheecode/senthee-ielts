@@ -6,6 +6,9 @@ import { AudioRecorder } from "./audio-recorder";
 import { WritingTopicBank } from "./writing-topic-bank";
 import { createBrowserLearnerRepository } from "@/lib/storage/browser-repository";
 import type { LearnerRepository } from "@/lib/storage/repository";
+import { createClient } from "@/lib/supabase/client";
+import { SupabaseSync } from "@/lib/storage/supabase-sync";
+import type { LearningAttempt } from "@/lib/domain/types";
 import { getListeningQuestions, getReadingQuestions, getSpeakingPrompts } from "@/data/index";
 import type { ReadingQuestion, ListeningQuestion, SpeakingQuestion } from "@/data/types";
 
@@ -89,6 +92,18 @@ export function PracticeHub({ repository }: { repository?: LearnerRepository }) 
   const [feedback, setFeedback] = useState("");
   const [loading, setLoading] = useState(false);
 
+  const supabase = createClient();
+  const sync = useMemo(
+    () => (supabase ? new SupabaseSync(supabase, repo) : null),
+    [supabase, repo]
+  );
+
+  function syncAttempt(attempt: LearningAttempt) {
+    if (sync) {
+      sync.syncAttempt(attempt).catch(() => {});
+    }
+  }
+
   const currentReading = readingState.current;
   const currentListening = listeningState.current;
 
@@ -123,14 +138,16 @@ export function PracticeHub({ repository }: { repository?: LearnerRepository }) 
 
     const allCorrect = q.questions.every((qu) => answers[qu.id] === qu.answer);
 
-    repo.recordAttempt({
+    const attempt: LearningAttempt = {
       id: `${skill}-${q.id}-${Date.now()}`,
       taskId: `${skill}-drill`,
       date: todayISO(),
       kind: allCorrect ? "completion" : "correction",
       minutes: 5,
       detail: `${skill === "reading" ? "阅读" : "听力"}：${q.title} · ${allCorrect ? "全部正确" : "有错需订正"}`,
-    });
+    };
+    repo.recordAttempt(attempt);
+    syncAttempt(attempt);
 
     const answered = loadAnswered();
     if (!answered[skill]) answered[skill] = [];
@@ -163,14 +180,16 @@ export function PracticeHub({ repository }: { repository?: LearnerRepository }) 
   async function handleWritingSubmit() {
     if (!writingText.trim()) return;
     setLoading(true);
-    repo.recordAttempt({
+    const attempt: LearningAttempt = {
       id: `writing-${Date.now()}`,
       taskId: "writing-paragraph",
       date: todayISO(),
       kind: "output",
       minutes: 15,
       detail: "提交写作段落给 Agent",
-    });
+    };
+    repo.recordAttempt(attempt);
+    syncAttempt(attempt);
     try {
       const response = await fetch("/api/coach", {
         method: "POST",
