@@ -12,7 +12,8 @@
 
 - App 名：`Senthee IELTS`
 - Bundle ID：`com.senthee.ielts`
-- 默认地址：`https://ielts-green.vercel.app`
+- 默认地址：`http://139.224.211.170:3000`
+- 当前为了直接连接公网 IP，iOS 临时允许 HTTP；绑定域名并启用 HTTPS 后应移除此例外。
 
 配置文件：`capacitor.config.ts`
 

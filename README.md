@@ -4,8 +4,8 @@ Senthee 的 IELTS 学习记录 App。学习贡献图、连续天数、每日 dif
 
 ## 当前部署与数据口径
 
-- 线上地址：`https://ielts-green.vercel.app`
-- 后端：部署在 Vercel 的 Next.js API Route，当前用于 `/api/coach` 调 DeepSeek。
+- 阿里云地址：`http://139.224.211.170:3000`
+- 后端：阿里云运行 Next.js，`/api/coach` 从服务器环境变量读取 DeepSeek Key。
 - 数据：学习记录保存在当前设备浏览器的 `localStorage`，首页可导出 JSON。
 - Supabase：今晚不需要登录。后续要做 iPhone / 安卓 / 电脑多端同步时，再把本地仓储替换成 Supabase。
 - Supabase 准备文件：新项目建好后可运行 `docs/supabase/schema.sql`，再配置 `NEXT_PUBLIC_SUPABASE_URL` 和 `NEXT_PUBLIC_SUPABASE_ANON_KEY`。
