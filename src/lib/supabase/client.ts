@@ -1,4 +1,6 @@
-export async function createClient() {
+import { createClient as supabaseCreateClient } from "@supabase/supabase-js";
+
+export function createClient() {
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
@@ -6,12 +8,5 @@ export async function createClient() {
     return null;
   }
 
-  try {
-    const { createClient: supabaseCreateClient } = await import(
-      "@supabase/supabase-js"
-    );
-    return supabaseCreateClient(url, key);
-  } catch {
-    return null;
-  }
+  return supabaseCreateClient(url, key);
 }
