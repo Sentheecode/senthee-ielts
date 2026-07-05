@@ -79,7 +79,7 @@ export function Dashboard({ repository }: { repository?: LearnerRepository }) {
       <main className="dashboard">
         <header className="page-header">
           <div><h1>{state.profile.name}</h1><p>今天先做这一组，做完有空再继续。</p></div>
-          <div className="date-copy">{new Intl.DateTimeFormat("zh-CN", { month: "long", day: "numeric", weekday: "short" }).format(new Date())}</div>
+          <div className="date-copy" suppressHydrationWarning>{new Intl.DateTimeFormat("zh-CN", { month: "long", day: "numeric", weekday: "short" }).format(new Date())}</div>
         </header>
 
         <div className="dashboard-grid">
